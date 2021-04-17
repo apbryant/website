@@ -40,8 +40,9 @@ export default function Home() {
         <ul>
           <li>I'm a digital artist</li>
           <li>I've lived abroad in Santiago, Chile since July 2016</li>
-          <li>I've lived abroad in Santiago, Chile since July 2016</li>
           <li>I've worked as an English as a foreign language teacher</li>
+          <li>My favorite food is 🍕</li>
+          <li>I speak fluent Spanish</li>
         </ul>
         <h1>Where I am</h1>
         <ul>

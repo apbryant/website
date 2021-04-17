@@ -33,7 +33,7 @@ export default function CV() {
     </div>
       <main>
       <h1>Summary</h1>
-      <p>Full stack developer for Latin American startups.</p>
+      <p>Full stack developer for startups.</p>
       <h1>Lazarillo, Full Stack Developer, January 2021 - Present</h1>
       <ul>
         <li>Implement UI changes to the platform's iOS and web applications to improve the platform's accessibility and performance.</li>
