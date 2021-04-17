@@ -51,7 +51,7 @@ export default function HowToDrawSubdividedTriangles() {
           width={750} // Desired size with correct aspect ratio
           alt=""
         />
-        <p>I subdivide the triangles recursively. The subdivision algorithm is: Find the longest side of a triangle. Draw a line from a point on that line to the opposite corner of a triangle. Repeat with the two newly created triangles unless a stop condition is met. Hat tip to Tyler Hobb’s <a href="https://tylerxhobbs.com/essays/2017/aesthetically-pleasing-triangle-subdivision">essay</a>Aesthetically Pleasing Triangle Subdivision.</p>
+        <p>I subdivide the triangles recursively. The subdivision algorithm is: Find the longest side of a triangle. Draw a line from a point on that line to the opposite corner of a triangle. Repeat with the two newly created triangles unless a stop condition is met. Hat tip to Tyler Hobb’s <a href="https://tylerxhobbs.com/essays/2017/aesthetically-pleasing-triangle-subdivision">essay</a> Aesthetically Pleasing Triangle Subdivision.</p>
 
 
 <p>The red points are the places where the larger triangle is split into two. A red point without a line is a point where the recursion stopped.</p>
