@@ -1,21 +1,11 @@
 {
   "/_app": "pages/_app.js",
-  "/artwork": "pages/artwork.html",
-  "/cv": "pages/cv.html",
-  "/": "pages/index.html",
-  "/posts/abroad": "pages/posts/abroad.html",
-  "/posts/ambition": "pages/posts/ambition.html",
-  "/posts/complicated-jobs": "pages/posts/complicated-jobs.html",
-  "/posts/creative-coding-resources": "pages/posts/creative-coding-resources.html",
-  "/posts/first-post": "pages/posts/first-post.html",
-  "/posts/house-disbursements": "pages/posts/house-disbursements.html",
-  "/posts/how-to-draw-subdivided-triangles": "pages/posts/how-to-draw-subdivided-triangles.html",
-  "/posts/liberal-technical-subjects": "pages/posts/liberal-technical-subjects.html",
-  "/posts/lords-prayer-levenshtein-distance": "pages/posts/lords-prayer-levenshtein-distance.html",
-  "/posts/patterns": "pages/posts/patterns.html",
-  "/posts/shadow": "pages/posts/shadow.html",
-  "/posts/what-ive-learned-gen-art": "pages/posts/what-ive-learned-gen-art.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/posts/how-to-draw-subdivided-triangles": "pages/posts/how-to-draw-subdivided-triangles.js",
+  "/cv": "pages/cv.js",
+  "/": "pages/index.js",
+  "/posts/first-post": "pages/posts/first-post.js",
+  "/artwork": "pages/artwork.js",
+  "/posts/shadow": "pages/posts/shadow.js"
 }

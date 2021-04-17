@@ -1,148 +1,58 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills-b7b042dafc30d210a3d4.js"
+    "static/chunks/polyfills.js"
   ],
-  "devFiles": [],
-  "ampDevFiles": [],
+  "devFiles": [
+    "static/chunks/react-refresh.js"
+  ],
+  "ampDevFiles": [
+    "static/chunks/webpack.js",
+    "static/chunks/amp.js"
+  ],
   "lowPriorityFiles": [
-    "static/KdlOXdsUL23jRbLu2uERq/_buildManifest.js",
-    "static/KdlOXdsUL23jRbLu2uERq/_ssgManifest.js"
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js"
   ],
   "pages": {
     "/": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/index-ef5752ca9ca9cac6749e.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
     ],
     "/_app": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/css/d17fee02395591184230.css",
-      "static/chunks/pages/_app-315da2821aab076f6c8c.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_app.js"
     ],
     "/_error": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/pages/_error-c52d66fefac66b204ef7.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/_error.js"
     ],
     "/artwork": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/artwork-259933b7d9b470314f2e.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/artwork.js"
     ],
     "/cv": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/cv-5fdc2e6d11ef0ab228a4.js"
-    ],
-    "/posts/abroad": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/abroad-8bafe62d33f84f180825.js"
-    ],
-    "/posts/ambition": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/ambition-61b92fcfdb19319fe631.js"
-    ],
-    "/posts/complicated-jobs": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/complicated-jobs-2a6005ead5965f434486.js"
-    ],
-    "/posts/creative-coding-resources": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/creative-coding-resources-91c4b06bdf9af341e641.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/cv.js"
     ],
     "/posts/first-post": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/first-post-80cbc3bfafddae7d6311.js"
-    ],
-    "/posts/house-disbursements": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/house-disbursements-aba4f380691dd3a5fee7.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/posts/first-post.js"
     ],
     "/posts/how-to-draw-subdivided-triangles": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/how-to-draw-subdivided-triangles-14b294dd4802cad847ca.js"
-    ],
-    "/posts/liberal-technical-subjects": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/liberal-technical-subjects-a6a98216d6a8e4be4d2f.js"
-    ],
-    "/posts/lords-prayer-levenshtein-distance": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/lords-prayer-levenshtein-distance-5d49f1a0371c01fdc21d.js"
-    ],
-    "/posts/patterns": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/patterns-c51e8ca26a9097d4a3d7.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/posts/how-to-draw-subdivided-triangles.js"
     ],
     "/posts/shadow": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/shadow-4954d4065b1f0b989c18.js"
-    ],
-    "/posts/what-ive-learned-gen-art": [
-      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
-      "static/chunks/framework.0a9f20eff0752717cd72.js",
-      "static/chunks/commons.c0e135697455787f63e6.js",
-      "static/chunks/main-09e883000a257079406e.js",
-      "static/chunks/2d9224489c7ccaef726bd07e6e50156191c1df12.e9c23b8fd14761583a60.js",
-      "static/chunks/pages/posts/what-ive-learned-gen-art-b36332fed934ea27f684.js"
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/posts/shadow.js"
     ]
   },
   "ampFirstPages": []
