@@ -1,14 +1,11 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import HeaderLinks from '../components/HeaderLinks'
-
 
 export default function CV() {
   return (
     <>
     <Head>
       <title>Andrew Bryant</title>
-      // <link rel="icon" href="/favicon.ico" />
     </Head>
 
     <div class="headerDiv">
@@ -18,7 +15,7 @@ export default function CV() {
     </Link>
     {" "}
 
-    <Link href="/posts/first-post">
+    <Link href="/posts/posts-index">
       <a>Posts</a>
     </Link>
     {" "}
@@ -32,11 +29,9 @@ export default function CV() {
 
     </div>
       <main>
-      <h1>Summary</h1>
-      <p>Full stack developer for startups.</p>
       <h1>Lazarillo, Full Stack Developer, January 2021 - Present</h1>
       <ul>
-        <li>Implement UI changes to the platform's iOS and web applications to improve the platform's accessibility and performance.</li>
+        <li>Implement UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
         <li>Optimize and monitor server costs and performance.</li>
       </ul>
       <h1>ZTZ Tech Group</h1>
@@ -53,11 +48,11 @@ export default function CV() {
         <li>An algorithm using C# to combine sections of multiple documents into one based on user input</li>
         <li>Dashboards using ASP.NET and JavaScript to help users understand their data and the systems they represent</li>
       </ul>
-      <h1>Tech stack</h1>
+      <h1>Art projects</h1>
       <ul>
-        <li>Languages: Typescript, Swift, C#, Python, R, Clojure, Markdown, HTML, CSS, JavaScript, Processing, GLSL</li>
-        <li>Frameworks: Rx, ASP.NET, Angular</li>
-        <li> Technologies: Azure, Git, SVN, Selenium</li>
+        <li><a href="https://apbryant.github.io/mapocho/index.html">Mapocho</a>: An exploration of our connection to rivers. Supported with generative artwork based on photos of the Mapocho River in Santiago. 2021.</li>
+        <li><a href="https://gum.co/pJKvHJ">How I Made It</a>: E-book sharing code & explanations of my generative artwork. 2021.</li>
+        <li><a href="https://gum.co/CgiVzv">Photography, Creative Coding, & the Copy Function</a>: E-book explaining how to make photo-based generative artwork. 2020.</li>
       </ul>
       <h1>Education & Certificates</h1>
       <ul>
@@ -69,6 +64,12 @@ export default function CV() {
             <footer>
                 © Andrew Bryant
             </footer>
+            <style jsx>{`
+        main {
+          margin-left: 20%;
+          margin-right: 20%;
+        }
+      `}</style>
     </>
   )
 }

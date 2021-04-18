@@ -19,7 +19,7 @@ export default function Shadow() {
       </Link>
       {" "}
 
-      <Link href="/posts/first-post">
+      <Link href="/posts/posts-index">
         <a>Posts</a>
       </Link>
       {" "}
