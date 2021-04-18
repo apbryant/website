@@ -34,8 +34,7 @@ export default function Home() {
         <h1 className="title">
           Welcome to my site!
         </h1>
-
-        <p>I'm a programmer from Arlington, Virginia.</p>
+        <p>I'm a programmer and digital artist from Arlington, Virginia.</p>
         <h1>I'm interested in</h1>
         <ul>
           <li>The cultural assumptions that underpin societies</li>
@@ -45,7 +44,6 @@ export default function Home() {
         </ul>
         <h1>Fun facts</h1>
         <ul>
-          <li>I'm a digital artist</li>
           <li>I've lived abroad in Santiago, Chile since July 2016</li>
           <li>I've worked as an English as a foreign language teacher</li>
           <li>My favorite food is 🍕</li>
