@@ -36,6 +36,13 @@ export default function Home() {
         </h1>
 
         <p>I'm a programmer from Arlington, Virginia.</p>
+        <h1>I'm interested in</h1>
+        <ul>
+          <li>The cultural assumptions that underpin societies</li>
+          <li>How to best integrate technology into our lives</li>
+          <li>Lanugages and the origins of words</li>
+          <li>Doing the unscalable</li>
+        </ul>
         <h1>Fun facts</h1>
         <ul>
           <li>I'm a digital artist</li>
