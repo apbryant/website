@@ -90,6 +90,33 @@ export default function FirstPost() {
         <a>Abroad</a>
       </Link>
       </div>
+      <div>
+      <Link href="/posts/dont-just-be-a-programmer">
+        <a>Don't just be a programmer</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/on-hiring">
+        <a>On hiring</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/doing-it-for-free">
+        <a>Doing it for free</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/symptoms">
+        <a>Symptoms</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/what-is-a-sine-anyway">
+        <a>What is a sine, anyway?</a>
+      </Link>
+      </div>
+
+
 
 
             <footer>

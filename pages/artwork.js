@@ -43,6 +43,13 @@ export default function Artwork() {
               alt=""
             />
             <Image
+              src="/images/sketches/200922e.png" // Route of the image file
+              layout="intrinsic"
+              height={600} // Desired size with correct aspect ratio
+              width={600} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
               src="/images/sketches/maipu_church.jpg" // Route of the image file
               layout="intrinsic"
               height={1000} // Desired size with correct aspect ratio
@@ -75,6 +82,13 @@ export default function Artwork() {
         <div class="column">
           <Image
             src="/images/sketches/2020_7_25_17_40_14.png" // Route of the image file
+            layout="intrinsic"
+            height={640} // Desired size with correct aspect ratio
+            width={640} // Desired size with correct aspect ratio
+            alt=""
+          />
+          <Image
+            src="/images/sketches/200913p.png" // Route of the image file
             layout="intrinsic"
             height={640} // Desired size with correct aspect ratio
             width={640} // Desired size with correct aspect ratio
