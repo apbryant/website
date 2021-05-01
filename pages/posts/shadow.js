@@ -37,7 +37,7 @@ export default function Shadow() {
 
       <article>
         <h2>The shadow</h2>
-        <h3>20 Dec 2020</h3>
+        <h3>20 December 2020</h3>
         <p>Writers like James Clear and Mark Manson have written about the idea of the shadow: what makes someone successful is the source of their greatest flaws. The best thing about someone is also the worst thing about them.</p>
 
 <p>The shadow doesn’t isn’t just for people. It applies to larger groups as well. Companies, governments, and societies.</p>

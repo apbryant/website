@@ -115,6 +115,76 @@ export default function FirstPost() {
         <a>What is a sine, anyway?</a>
       </Link>
       </div>
+      <div>
+      <Link href="/posts/back-on-social-media">
+        <a>Back on social media</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/full-stack-heroes-interview">
+        <a>Full Stack Heroes interview</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/on-lisp-and-latin">
+        <a>On Lisp and Latin</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/my-experience-learning-lisp">
+        <a>My experience learning Lisp</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/on-remote-work">
+        <a>On remote work</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/everything-popular-is-wrong">
+        <a>Everything popular is wrong</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/the-benefits-and-drawbacks-of-coding">
+        <a>The benefits and drawbacks of coding</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/why-we-dont-build">
+        <a>Why we don't build</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/why-i-love-coding">
+        <a>Why I love coding</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/walking-through-my-decision-to-move-abroad">
+        <a>Walking through my decision to move abroad</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/connecting-the-dots">
+        <a>Connecting the dots</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/some-mental-mistakes-americans-make">
+        <a>Some mental mistakes Americans make</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/corner-cases">
+        <a>Corner cases</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/tech-guidelines">
+        <a>Tech guidelines</a>
+      </Link>
+      </div>
 
 
 

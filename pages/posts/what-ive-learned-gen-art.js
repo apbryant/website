@@ -37,7 +37,7 @@ export default function WhatIveLearnedGenArt() {
 
       <article>
         <h2>What I've learned from generative art</h2>
-        <h3>28 Nov 2020</h3>
+        <h3>28 November 2020</h3>
         <p>Below are some things that I’ve learned from my time making generative art:</p>
 
 <h4>Save everything</h4>

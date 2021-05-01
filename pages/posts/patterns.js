@@ -37,7 +37,7 @@ export default function Patterns() {
 
       <article>
         <h2>Patterns</h2>
-        <h3>21 Oct 2020</h3>
+        <h3>21 October 2020</h3>
         <p>A theme in the sketches I make, and in those of many other creative coders, is patterns. I like combining simple shapes and seeing what they turn into.  There may be variations in noise, time, color, but the essence of many sketches is patterns.</p>
 
 <p>Humans are in love with patterns. Our brains are designed to recognize them. It's not surprising then that we seek them out when we code.  When you see patterns in nature, they aren't identical. Each iteration of the pattern is slightly different.</p>

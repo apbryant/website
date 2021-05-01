@@ -29,7 +29,7 @@ export default function HouseDisbursements() {
 
       <article>
         <h2>Analysis of Q3 2020 House disbursements</h2>
-        <h3>13 Feb 2021</h3>
+        <h3>13 February 2021</h3>
         <p>
           The United States House of Representatives publishes data of its disbursements, basically the money it paid out to others. It gives a comprehensive picture of the workings of the House, so outsiders can see how the money is being put to work.</p>
 

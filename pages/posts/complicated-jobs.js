@@ -37,7 +37,7 @@ export default function ComplicatedJobs() {
 
       <article>
         <h2>Why modern jobs seem so complicated</h2>
-        <h3>10 Aug 2020</h3>
+        <h3>10 August 2020</h3>
 
 
         <p>Many knowledge workers have the feeling of not being able to explain what exactly they do. They work, but can’t point to a single thing that they made happen. A chef can point to the dishes they make. A garbage collector can say he was the one who keeps your streets clean. A nurse can point to someone and say “I saved that person’s life”.</p>

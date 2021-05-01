@@ -37,7 +37,7 @@ export default function Ambition() {
 
       <article>
         <h2>Ambition</h2>
-        <h3>30 Jan 2021</h3>
+        <h3>30 January 2021</h3>
         <p>One thing I changed my mind about in 2020 was ambition.</p>
 
     <p>I used to think ambition was a character trait worth having. Now I don’t.</p>

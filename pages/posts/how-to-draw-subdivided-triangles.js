@@ -33,8 +33,8 @@ export default function HowToDrawSubdividedTriangles() {
 
       <article>
         <h2>How to draw lines of subdivided triangles</h2>
-        <h3>Created 10 Nov 2020</h3>
-        <h3>Updated 17 Apr 2020</h3>
+        <h3>Created 10 November 2020</h3>
+        <h3>Updated 17 April 2020</h3>
         <p>I start by drawing points along four vertical lines, with variation in the x position. The result is the series of points arranged in four crooked lines.</p>
         <Image
           src="/images/how-to-draw-subdivided-triangles/triangle_subdivision_01.png" // Route of the image file

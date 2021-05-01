@@ -37,8 +37,8 @@ export default function Ambition() {
 
       <article>
         <h2>Creative coding resources</h2>
-        <h3>Created 26 Dec 2020</h3>
-        <h3>Updated 16 Apr 2021</h3>
+        <h3>Created 26 December 2020</h3>
+        <h3>Updated 16 April 2021</h3>
 
         <p>In this post I list resources I’ve found useful in learning creative coding. I’ll continue to update it as I continue to learn more!</p>
 

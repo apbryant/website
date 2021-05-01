@@ -37,7 +37,7 @@ export default function LordsPrayerLevenshteinDistance() {
 
       <article>
         <h2>From the vault: Levenshtein distance analysis of the Lord's prayer in different languages</h2>
-        <h3>12 Nov 2020</h3>
+        <h3>12 November 2020</h3>
 
         <p>I almost forgot about this project.</p>
 

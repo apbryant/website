@@ -37,7 +37,7 @@ export default function LiberalTechnicalSubjects() {
 
       <article>
         <h2>Liberal and technical subjects are the same</h2>
-        <h3>12 Dec 2020</h3>
+        <h3>12 December 2020</h3>
         <p>The divide between the liberal arts and the more technical fields is artificial. They’re just two sides of the same coin. If you go deep enough into one you’ll end up in the other.</p>
 
 <p>Let’s say you’re an artist and you want to learn about how people perceive colors. Well, you’d have to learn about what light is, how different surfaces reflect it, and how the eye and the brain perceive it. That gets you deep into physics and biology. If you’re a dancer and want to study how the body moves, you’ll need to learn about physics, biology, and chemistry to understand how the body generates energy and can move itself a certain way.</p>

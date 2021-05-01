@@ -43,6 +43,13 @@ export default function Artwork() {
               alt=""
             />
             <Image
+              src="/images/sketches/hex_sierpinski.png" // Route of the image file
+              layout="intrinsic"
+              height={1000} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
               src="/images/sketches/200922e.png" // Route of the image file
               layout="intrinsic"
               height={600} // Desired size with correct aspect ratio
@@ -92,6 +99,13 @@ export default function Artwork() {
             layout="intrinsic"
             height={640} // Desired size with correct aspect ratio
             width={640} // Desired size with correct aspect ratio
+            alt=""
+          />
+          <Image
+            src="/images/sketches/lissajous_square.png" // Route of the image file
+            layout="intrinsic"
+            height={900} // Desired size with correct aspect ratio
+            width={900} // Desired size with correct aspect ratio
             alt=""
           />
             <Image
