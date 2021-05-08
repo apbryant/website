@@ -7,9 +7,6 @@ export default function FirstPost() {
     <>
     <Head>
       <title>Andrew Bryant</title>
-      // <link rel="icon" href="/favicon.ico" />
-
-
 
       </Head>
       <div class="headerDiv">
@@ -183,6 +180,126 @@ export default function FirstPost() {
       <div>
       <Link href="/posts/tech-guidelines">
         <a>Tech guidelines</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/tradeoffs">
+        <a>Trade-offs</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/how-much-technology-is-too-much">
+        <a>How much technology is too much</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/the-illusion-of-stillness">
+        <a>The illusion of stillness</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/societies-idolize-what-they-dont-have">
+        <a>Societies idolize what they don't have</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/doing-vs-making">
+        <a>Doing vs. making</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/does-technology-die">
+        <a>Does technology die?</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/how-to-be-interesting">
+        <a>How to be interesting</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/the-different-types-of-risks">
+        <a>The different types of risks</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/technology-cant-solve-our-biggest-problems">
+        <a>Technology can't solve our biggest problems</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/my-fitness-routine">
+        <a>My fitness routine</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/comfort">
+        <a>Comfort</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/what-skateboarding-taught-me">
+        <a>What skateboarding taught me</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/what-ive-learned-after-three-years-in-chile">
+        <a>What I've learned after three years in Chile</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/the-computer-is-not-a-toy">
+        <a>The computer is not a toy</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/we-know-what-to-do">
+        <a>We know what to do</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/difference">
+        <a>Difference</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/performance-vs-effort">
+        <a>Performance vs. effort</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/the-wolf">
+        <a>The wolf</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/its-me">
+        <a>It's me</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/entrevista-con-un-barista">
+        <a>¡Entrevista con un barista!</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/interview-with-a-barista">
+        <a>Interview with a barista!</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/managing-stress">
+        <a>Managing stress</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/2018-year-review">
+        <a>2018 year review</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/the-coolest-thing-about-living-abroad">
+        <a>The coolest thing about living abroad</a>
       </Link>
       </div>
 
