@@ -37,7 +37,7 @@ export default function ARantAboutHealthInAmerica() {
 
       <article>
         <h2>A rant about health in America</h2>
-        <h3>28 April 2018</h3>
+        <h3>29 April 2018</h3>
         <p>It’s en vogue to talk about what’s wrong with America these days, but I’ve found that amidst all the chatter something very fundamental often gets overlooked.</p>
 
 

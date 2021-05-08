@@ -8,9 +8,6 @@ export default function EntrevistaConUnBarista() {
     <Head>
       <title>Andrew Bryant</title>
       // <link rel="icon" href="/favicon.ico" />
-
-
-
       </Head>
       <div class="headerDiv">
 
@@ -59,9 +56,9 @@ export default function EntrevistaConUnBarista() {
 
 <p>Bloom se encuentra en Merced con Lastarria en Santiago Centro. Su horario es 8:00 - 20:00 lunes-viernes y 10:00 - 20:00 sábado-domingo.</p>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3341.0259916068317!2d-70.64350944439025!3d-33.43713953276271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xef4ecb421d561b72!2sBloom%20Specialty%20Coffee!5e0!3m2!1sen!2sus!4v1620487688342!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3341.0259916068317!2d-70.64350944439025!3d-33.43713953276271!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xef4ecb421d561b72!2sBloom%20Specialty%20Coffee!5e0!3m2!1sen!2sus!4v1620487688342!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowFullScreen="" loading="lazy"></iframe>
 
-<a href="https://drive.google.com/file/d/1XLRrLV8cAkoFZfh_jjuCngjkyu14bwIT/view?usp=sharing">Link a entrevista</p>
+<a href="https://drive.google.com/file/d/1XLRrLV8cAkoFZfh_jjuCngjkyu14bwIT/view?usp=sharing">Link a entrevista</a>
       </article>
 
             <footer>
