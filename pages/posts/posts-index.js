@@ -33,6 +33,11 @@ export default function FirstPost() {
 
       <h1>Posts</h1>
       <div>
+      <Link href="/posts/why-i-do-creative-coding">
+        <a>Why I do creative coding</a>
+      </Link>
+      </div>
+      <div>
       <Link href="/posts/house-disbursements">
         <a>Analysis of Q3 2020 House disbursements</a>
       </Link>
