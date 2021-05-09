@@ -33,6 +33,11 @@ export default function FirstPost() {
 
       <h1>Posts</h1>
       <div>
+      <Link href="/posts/why-i-do-creative-coding">
+        <a>Why I do creative coding</a>
+      </Link>
+      </div>
+      <div>
       <Link href="/posts/house-disbursements">
         <a>Analysis of Q3 2020 House disbursements</a>
       </Link>
@@ -189,7 +194,7 @@ export default function FirstPost() {
       </div>
       <div>
       <Link href="/posts/how-much-technology-is-too-much">
-        <a>How much technology is too much</a>
+        <a>How much technology is too much?</a>
       </Link>
       </div>
       <div>
@@ -277,16 +282,7 @@ export default function FirstPost() {
         <a>It's me</a>
       </Link>
       </div>
-      <div>
-      <Link href="/posts/entrevista-con-un-barista">
-        <a>¡Entrevista con un barista!</a>
-      </Link>
-      </div>
-      <div>
-      <Link href="/posts/interview-with-a-barista">
-        <a>Interview with a barista!</a>
-      </Link>
-      </div>
+
       <div>
       <Link href="/posts/managing-stress">
         <a>Managing stress</a>
@@ -300,6 +296,41 @@ export default function FirstPost() {
       <div>
       <Link href="/posts/the-coolest-thing-about-living-abroad">
         <a>The coolest thing about living abroad</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/five-things-the-united-states-does-better-than-chile">
+        <a>Five things the United States does better than Chile</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/a-rant-about-health-in-america">
+        <a>A rant about health in America</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/my-corner-of-the-social-internet">
+        <a>My corner of the Social Internet</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/five-things-that-chile-does-better-than-the-usa">
+        <a>Five things that Chile does better than the USA</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/re-invention">
+        <a>Re-invention</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/are-we-really-less-happy">
+        <a>Are we really less happy?</a>
+      </Link>
+      </div>
+      <div>
+      <Link href="/posts/debugging">
+        <a>Debugging</a>
       </Link>
       </div>
 

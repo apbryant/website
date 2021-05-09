@@ -36,7 +36,7 @@ export default function Comfort() {
 
 
       <article>
-        <h2>Doing vs. making</h2>
+        <h2>Comfort</h2>
         <h3>1 September 2019</h3>
         <p>We’re humans. We’re not meant to be comfortable all the time.</p>
 
