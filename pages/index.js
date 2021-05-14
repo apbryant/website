@@ -34,7 +34,7 @@ export default function Home() {
         <h1 className="title">
           Welcome to my site!
         </h1>
-        <p>I'm a programmer and digital artist from Arlington, Virginia.</p>
+        <p>I'm a software developer and creative coder from Arlington, Virginia.</p>
         <h1>I'm interested in</h1>
         <ul>
           <li>The cultural assumptions that underpin societies</li>
@@ -59,8 +59,8 @@ export default function Home() {
         </ul>
         <h1>Stuff I sell</h1>
         <ul>
-          <li><a href="https://www.etsy.com/shop/BryantGenArt">Digital art</a></li>
-          <li><a href="https://gumroad.com/andrewpbryant">Ebooks about digital art</a></li>
+          <li><a href="https://www.etsy.com/shop/BryantGenArt">Artwork for sale</a></li>
+          <li><a href="https://gumroad.com/andrewpbryant">Ebooks about creative coding</a></li>
         </ul>
 
       </main>
