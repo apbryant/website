@@ -4,6 +4,7 @@ import Link from 'next/link'
 export default function CV() {
   return (
     <>
+
     <Head>
       <title>Andrew Bryant</title>
       // <link rel="icon" href="/favicon.ico" />
@@ -46,11 +47,12 @@ export default function CV() {
         <li>Dashboards using ASP.NET and JavaScript to help users understand their data and the systems they represent</li>
       </ul>
 
-      <h1>Art projects</h1>
+      <h1>Projects</h1>
       <ul>
         <li><a href="https://apbryant.github.io/mapocho/index.html">Mapocho</a>: An exploration of our connection to rivers. Supported with generative artwork based on photos of the Mapocho River in Santiago. 2021.</li>
-        <li><a href="https://gum.co/pJKvHJ">How I Made It</a>: E-book sharing code & explanations of my generative artwork. 2021.</li>
-        <li><a href="https://gum.co/CgiVzv">Photography, Creative Coding, & the Copy Function</a>: E-book explaining how to make photo-based generative artwork. 2020.</li>
+        <li><a href="https://gum.co/CgiVzv">Photography, Creative Coding, & the Copy Function</a>: E-book explaining how to make photo-based generative artwork. 2021.</li>
+        <li><a href="https://gum.co/pJKvHJ">How I Made It</a>: E-book sharing code & explanations of my generative artwork. 2020.</li>
+        <li><a href="https://github.com/apbryant/projects/blob/master/lords_prayer_languages/Lord's%20Prayer%20Levenshtein%20Distance%20Report.ipynb">Lord’s Prayer Levenshtein Distance</a>: Report analyzing the Levenshtein distance of the words in the Lord’s Prayer in various Romance languages. 2019.</li>
       </ul>
 
       <h1>Press</h1>
@@ -74,10 +76,14 @@ export default function CV() {
             </footer>
             <style jsx>{`
         main {
-          margin-left: 20%;
-          margin-right: 20%;
+          margin-left: 15%;
+          margin-right: 15%;
+        }
+        div{
+          text-align:center;
         }
       `}</style>
+
     </>
   )
 }
