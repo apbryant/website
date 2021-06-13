@@ -6,28 +6,25 @@ export default function CV() {
     <>
     <Head>
       <title>Andrew Bryant</title>
+      // <link rel="icon" href="/favicon.ico" />
     </Head>
-
-    <div class="headerDiv">
-
-    <Link href="/">
-      <a>Home</a>
-    </Link>
-    {" "}
-
-    <Link href="/posts/posts-index">
-      <a>Posts</a>
-    </Link>
-    {" "}
-    <Link href="/artwork">
-      <a>Artwork</a>
-    </Link>
-    {" "}
-    <Link href="/cv">
-      <a>CV</a>
-    </Link>
-
-    </div>
+      <div class="headerDiv">
+        <Link href="/">
+          <a>Home</a>
+        </Link>
+        {" "}
+        <Link href="/posts/posts-index">
+          <a>Posts</a>
+        </Link>
+        {" "}
+        <Link href="/artwork">
+          <a>Artwork</a>
+        </Link>
+        {" "}
+        <Link href="/cv">
+          <a>CV</a>
+        </Link>
+      </div>
       <main>
       <h1>Lazarillo, Full Stack Developer, January 2021 - Present</h1>
       <ul>
@@ -54,12 +51,14 @@ export default function CV() {
         <li><a href="https://gum.co/pJKvHJ">How I Made It</a>: E-book sharing code & explanations of my generative artwork. 2021.</li>
         <li><a href="https://gum.co/CgiVzv">Photography, Creative Coding, & the Copy Function</a>: E-book explaining how to make photo-based generative artwork. 2020.</li>
       </ul>
+
       <h1>Press</h1>
       <ul>
         <li><a href="https://www.artsyshark.com/2021/05/26/what-is-creative-coding/">Artsy Shark - What Is creative coding?</a></li>
         <li><a href="https://www.iltanet.org/blogs/ignacio-raffa1/2020/10/07/efficiency-and-automation-in-legal-tech">International Legal Technology Association - Efficiency and Automation in Legal Tech</a></li>
         <li><a href="https://fullstackheroes.com/interviews/andrew-bryant/">Full Stack Heroes - Interview</a></li>
       </ul>
+
       <h1>Education & Certificates</h1>
       <ul>
         <li>Udacity, Data Analyst Nanodegree, 2017</li>
