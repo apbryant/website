@@ -39,7 +39,7 @@ export default function Home() {
         <ul>
           <li>The cultural assumptions that underpin societies</li>
           <li>How to best integrate technology into our lives</li>
-          <li>Lanugages and the origins of words</li>
+          <li>Languages and the origins of words</li>
           <li>Doing the unscalable</li>
         </ul>
         <h1>Fun facts</h1>
