@@ -28,34 +28,7 @@ export default function Artwork() {
       </div>
       <div class="row">
         <div class="column">
-            <Image
-              src="/images/sketches/200923c.png" // Route of the image file
-              layout="intrinsic"
-              height={800} // Desired size with correct aspect ratio
-              width={800} // Desired size with correct aspect ratio
-              alt=""
-            />
-            <Image
-              src="/images/sketches/image.png" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
-            <Image
-              src="/images/sketches/hex_sierpinski.png" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
-            <Image
-              src="/images/sketches/200922e.png" // Route of the image file
-              layout="intrinsic"
-              height={600} // Desired size with correct aspect ratio
-              width={600} // Desired size with correct aspect ratio
-              alt=""
-            />
+
             <Image
               src="/images/sketches/maipu_church.jpg" // Route of the image file
               layout="intrinsic"
@@ -84,30 +57,38 @@ export default function Artwork() {
               width={750}
               alt=""
             />
+            <Image
+              src="/images/sketches/200923c.png" // Route of the image file
+              layout="intrinsic"
+              height={800} // Desired size with correct aspect ratio
+              width={800} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
+              src="/images/sketches/image.png" // Route of the image file
+              layout="intrinsic"
+              height={1000} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
+              src="/images/sketches/hex_sierpinski.png" // Route of the image file
+              layout="intrinsic"
+              height={1000} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
+              src="/images/sketches/200922e.png" // Route of the image file
+              layout="intrinsic"
+              height={600} // Desired size with correct aspect ratio
+              width={600} // Desired size with correct aspect ratio
+              alt=""
+            />
 
         </div>
         <div class="column">
-          <Image
-            src="/images/sketches/2020_7_25_17_40_14.png" // Route of the image file
-            layout="intrinsic"
-            height={640} // Desired size with correct aspect ratio
-            width={640} // Desired size with correct aspect ratio
-            alt=""
-          />
-          <Image
-            src="/images/sketches/200913p.png" // Route of the image file
-            layout="intrinsic"
-            height={640} // Desired size with correct aspect ratio
-            width={640} // Desired size with correct aspect ratio
-            alt=""
-          />
-          <Image
-            src="/images/sketches/lissajous_square.png" // Route of the image file
-            layout="intrinsic"
-            height={900} // Desired size with correct aspect ratio
-            width={900} // Desired size with correct aspect ratio
-            alt=""
-          />
+
             <Image
               src="/images/sketches/big.jpg" // Route of the image file
               layout="intrinsic"
@@ -134,6 +115,27 @@ export default function Artwork() {
               layout="intrinsic"
               height={1000} // Desired size with correct aspect ratio
               width={1000}
+              alt=""
+            />
+            <Image
+              src="/images/sketches/2020_7_25_17_40_14.png" // Route of the image file
+              layout="intrinsic"
+              height={640} // Desired size with correct aspect ratio
+              width={640} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
+              src="/images/sketches/200913p.png" // Route of the image file
+              layout="intrinsic"
+              height={640} // Desired size with correct aspect ratio
+              width={640} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
+              src="/images/sketches/lissajous_square.png" // Route of the image file
+              layout="intrinsic"
+              height={900} // Desired size with correct aspect ratio
+              width={900} // Desired size with correct aspect ratio
               alt=""
             />
         </div>
