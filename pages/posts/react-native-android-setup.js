@@ -84,8 +84,6 @@ export default function ReactNativeAndroidSetup() {
     </li>
   </ul>
 
-
-
       </article>
 
             <footer>
