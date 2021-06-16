@@ -33,6 +33,11 @@ export default function FirstPost() {
 
       <h1>Posts</h1>
       <div>
+      <Link href="/posts/react-native-android-setup">
+        <a>React Native Android setup</a>
+      </Link>
+      </div>
+      <div>
       <Link href="/posts/the-tao-of-chile">
         <a>The Tao of Chile</a>
       </Link>
