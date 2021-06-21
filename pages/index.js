@@ -48,6 +48,7 @@ export default function Home() {
           <li>I've worked as an English as a foreign language teacher</li>
           <li>My favorite food is 🍕</li>
           <li>I speak fluent Spanish</li>
+          <li>I code this site myself with next.js</li>
         </ul>
         <h1>Where I am</h1>
         <ul>
