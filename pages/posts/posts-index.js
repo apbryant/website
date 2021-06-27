@@ -32,6 +32,13 @@ export default function FirstPost() {
       </div>
 
       <h1>Posts</h1>
+
+      <div>
+      <Link href="/posts/coding-in-chile">
+        <a>Coding in Chile</a>
+      </Link>
+      </div>
+
       <div>
       <Link href="/posts/nlp-in-spanish">
         <a>NLP in Spanish</a>

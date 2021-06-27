@@ -58,6 +58,13 @@ export default function Artwork() {
               alt=""
             />
             <Image
+              src="/images/sketches/powerful.jpg" // Route of the image file
+              layout="intrinsic"
+              height={543} // Desired size with correct aspect ratio
+              width={1000}
+              alt=""
+            />
+            <Image
               src="/images/sketches/200923c.png" // Route of the image file
               layout="intrinsic"
               height={800} // Desired size with correct aspect ratio
@@ -89,6 +96,13 @@ export default function Artwork() {
         </div>
         <div class="column">
 
+        <Image
+          src="/images/sketches/dream_port.jpg" // Route of the image file
+          layout="intrinsic"
+          height={566} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
             <Image
               src="/images/sketches/big.jpg" // Route of the image file
               layout="intrinsic"
@@ -136,6 +150,13 @@ export default function Artwork() {
               layout="intrinsic"
               height={900} // Desired size with correct aspect ratio
               width={900} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
+              src="/images/sketches/plotter_2021_5_16_10_35_26.svg" // Route of the image file
+              layout="intrinsic"
+              height={576} // Desired size with correct aspect ratio
+              width={792} // Desired size with correct aspect ratio
               alt=""
             />
         </div>

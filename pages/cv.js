@@ -27,6 +27,10 @@ export default function CV() {
         </Link>
       </div>
       <main>
+      <h1>Hit Subscribe, Writer, May 2021 - Present</h1>
+      <ul>
+        <li>Write blog posts about software and the technology industry</li>
+      </ul>
       <h1>Lazarillo, Full Stack Developer, January 2021 - Present</h1>
       <ul>
         <li>Implement UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
