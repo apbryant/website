@@ -37,8 +37,9 @@ export default function NlpInSpanish() {
 
       <article>
         <h2>NLP in Spanish</h2>
-        <h3>19 June 2020</h3>
-        
+        <h3>Created 19 June 2021</h3>
+        <h3>Updated 5 July 2021</h3>
+
 
         <p>Natural language processing (abbreviated as NLP) is using software to work with natural languages. Tools are plentiful, however many NLP tools default to English. Meaning that, if you want to work with Spanish text, there are some things to keep in mind and do differently.</p>
 
@@ -46,7 +47,7 @@ export default function NlpInSpanish() {
 
 <p>First things first, when working with text, you want to make sure that you’re reading in your file using UTF-8 encoding. Programs reading text might take ASCII formatting as a default. ASCII stands for American Standard Code for Information Interchange. Because it’s the American standard, it uses only English characters, numbers, and symbols needed for computing. Other characters aren’t included. If you read a Spanish text using ASCII encoding, you’ll likely get an error message from unrecognized characters like accents and upside-down question marks. Python 3 uses UTF-8 encoding by default, but in another language the encoding may need to be set explicitly.</p>
 
-<h2>Accents</h2> 
+<h2>Accents</h2>
 
 <p>Unlike English, accents are an important part of the Spanish language. They give guidance as to how a word should be pronounced. They also distinguish two words that are otherwise pronounced the same. An example is “el” (the) and “él” (he).</p>
 
