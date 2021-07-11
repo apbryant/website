@@ -50,11 +50,6 @@ export default function FirstPost() {
       </Link>
       </div>
       <div>
-      <Link href="/posts/the-tao-of-chile">
-        <a>The Tao of Chile</a>
-      </Link>
-      </div>
-      <div>
       <Link href="/posts/creative-coding-is-revolutionary">
         <a>Creative coding is revolutionary</a>
       </Link>
