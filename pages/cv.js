@@ -61,6 +61,7 @@ export default function CV() {
 
       <h1>Press</h1>
       <ul>
+        <li><a href="https://makemeaprogrammer.com/lessons-from-a-veteran-from-economics-to-software-engineering-with-andrew-bryant/">Make Me A Programmer</a></li>
         <li><a href="https://www.artsyshark.com/2021/05/26/what-is-creative-coding/">Artsy Shark - What Is creative coding?</a></li>
         <li><a href="https://www.iltanet.org/blogs/ignacio-raffa1/2020/10/07/efficiency-and-automation-in-legal-tech">International Legal Technology Association - Efficiency and Automation in Legal Tech</a></li>
         <li><a href="https://fullstackheroes.com/interviews/andrew-bryant/">Full Stack Heroes - Interview</a></li>
