@@ -79,6 +79,13 @@ export default function Artwork() {
               alt=""
             />
             <Image
+              src="/images/sketches/disorder.png" // Route of the image file
+              layout="intrinsic"
+              height={900} // Desired size with correct aspect ratio
+              width={900} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
               src="/images/sketches/hex_sierpinski.png" // Route of the image file
               layout="intrinsic"
               height={1000} // Desired size with correct aspect ratio
@@ -92,6 +99,7 @@ export default function Artwork() {
               width={600} // Desired size with correct aspect ratio
               alt=""
             />
+
 
         </div>
         <div class="column">
@@ -132,6 +140,13 @@ export default function Artwork() {
               alt=""
             />
             <Image
+              src="/images/sketches/plotter_2021_5_16_10_35_26.svg" // Route of the image file
+              layout="intrinsic"
+              height={576} // Desired size with correct aspect ratio
+              width={792} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
               src="/images/sketches/2020_7_25_17_40_14.png" // Route of the image file
               layout="intrinsic"
               height={640} // Desired size with correct aspect ratio
@@ -152,13 +167,7 @@ export default function Artwork() {
               width={900} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/plotter_2021_5_16_10_35_26.svg" // Route of the image file
-              layout="intrinsic"
-              height={576} // Desired size with correct aspect ratio
-              width={792} // Desired size with correct aspect ratio
-              alt=""
-            />
+
         </div>
       </div>
 
