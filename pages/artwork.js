@@ -161,6 +161,13 @@ export default function Artwork() {
               alt=""
             />
             <Image
+              src="/images/sketches/handwriting.png" // Route of the image file
+              layout="intrinsic"
+              height={900} // Desired size with correct aspect ratio
+              width={900} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
               src="/images/sketches/lissajous_square.png" // Route of the image file
               layout="intrinsic"
               height={900} // Desired size with correct aspect ratio

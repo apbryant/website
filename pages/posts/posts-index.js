@@ -34,6 +34,11 @@ export default function FirstPost() {
       <h1>Posts</h1>
 
       <div>
+      <Link href="/posts/ten-things">
+        <a>My review of Mark Manson's 10 things essay</a>
+      </Link>
+      </div>
+      <div>
       <Link href="/posts/offshoring-latin-america">
         <a>Why offshoring to Latin America is different</a>
       </Link>
