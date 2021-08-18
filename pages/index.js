@@ -44,7 +44,7 @@ export default function Home() {
         </ul>
         <h1>Fun facts</h1>
         <ul>
-          <li>I've lived abroad in Santiago, Chile since July 2016</li>
+          <li>I lived abroad in Santiago, Chile from July 2016 to August 2021</li>
           <li>I've worked as an English as a foreign language teacher</li>
           <li>My favorite food is 🍕</li>
           <li>I speak fluent Spanish</li>
