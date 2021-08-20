@@ -33,6 +33,12 @@ export default function FirstPost() {
 
       <h1>Posts</h1>
 
+
+      <div>
+      <Link href="/posts/travel-thoughts-2021">
+        <a>Travel thoughts</a>
+      </Link>
+      </div>
       <div>
       <Link href="/posts/ten-things">
         <a>My review of Mark Manson's 10 things essay</a>
