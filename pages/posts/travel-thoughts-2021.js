@@ -9,7 +9,8 @@ export default function Comfort() {
 
       <article>
         <h2>Travel thoughts</h2>
-        <h3>20 August 2021</h3>
+        <h3>Created 20 August 2021</h3>
+        <h3>Updated 23 August 2021</h3>
 
         <p>Here are some thoughts I had travelling from Chile to the United States, post covid and after about 1.75 years without being in the U.S., and from my first week there.</p>
 
@@ -20,6 +21,7 @@ export default function Comfort() {
         <li>I was so close to so many people in the planes and airports. Each of them could probably a genius at something. Do they know what that thing is, and are they cultivating it? Who is the <a href="http://www.paulgraham.com/taste.html">Leonardo of Arlington or Santiago?</a></li>
         <li>They have messaging on flights now. Airplanes used to offer solitude with ones thoughts, respites form the hectic nature of life. Why do we want to take that away?</li>
         <li>Pack light. Then pack even lighter.</li>
+        <li>The words "travel" and "travail" have the same Latin route, a word describing a tool for torture. Makes sense. This word also gives us the word for "work" in many Romance languages, including Spanish. But that's for another time.</li>
         <li>The U.S. is very diverse. It's incredible to see</li>
         <li>Lots of people in the U.S. dress like they rolled out of bed or are on their way to the gym.</li>
         <li>Change your money before leaving, if possible.</li>
