@@ -1,35 +1,12 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import MyHeader from '../components/MyHeader'
 
 export default function Home() {
   return (
-    <div className="container">
-      <Head>
-        <title>Andrew Bryant</title>
-        // <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <div class="headerDiv">
+    <>
+    <MyHeader />
 
-      <Link href="/">
-        <a>Home</a>
-      </Link>
-      {" "}
-
-      <Link href="/posts/posts-index">
-        <a>Posts</a>
-      </Link>
-      {" "}
-
-      <Link href="/artwork">
-        <a>Artwork</a>
-      </Link>
-      {" "}
-
-      <Link href="/cv">
-        <a>CV</a>
-      </Link>
-
-      </div>
       <main>
         <h1 className="title">
           Welcome to my site!
@@ -71,7 +48,6 @@ export default function Home() {
           © Andrew Bryant
       </footer>
 
-
-    </div>
+    </>
   )
 }

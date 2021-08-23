@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-
+import MyHeader from '../../components/MyHeader'
 
 export default function Abroad() {
   return (

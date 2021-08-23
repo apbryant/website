@@ -1,31 +1,12 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Image from 'next/image'
+import MyHeader from '../components/MyHeader'
 
 export default function Artwork() {
   return (
     <>
-    <Head>
-      <title>Andrew Bryant</title>
-      // <link rel="icon" href="/favicon.ico" />
-    </Head>
-      <div class="headerDiv">
-      <Link href="/">
-        <a>Home</a>
-      </Link>
-      {" "}
-      <Link href="/posts/posts-index">
-        <a>Posts</a>
-      </Link>
-      {" "}
-      <Link href="/artwork">
-        <a>Artwork</a>
-      </Link>
-      {" "}
-      <Link href="/cv">
-        <a>CV</a>
-      </Link>
-      </div>
+    <MyHeader />
       <div class="row">
         <div class="column">
 

@@ -1,39 +1,11 @@
 import Head from 'next/head'
 import Link from 'next/link'
 
-
+import MyHeader from '../../components/MyHeader'
 export default function MyCornerOfTheSocialInternet() {
   return (
     <>
-    <Head>
-      <title>Andrew Bryant</title>
-      // <link rel="icon" href="/favicon.ico" />
-
-
-
-      </Head>
-      <div class="headerDiv">
-
-      <Link href="/">
-        <a>Home</a>
-      </Link>
-      {" "}
-
-      <Link href="/posts/posts-index">
-        <a>Posts</a>
-      </Link>
-      {" "}
-      <Link href="/artwork">
-        <a>Artwork</a>
-      </Link>
-      {" "}
-
-      <Link href="/cv">
-        <a>CV</a>
-      </Link>
-
-      </div>
-
+    <MyHeader />
 
       <article>
         <h2>My corner of the Social Internet</h2>
@@ -50,7 +22,7 @@ export default function MyCornerOfTheSocialInternet() {
 
 
 
-<p>He made another set of recommendations to allow people to leverage the benefits of connecting with important people/topics in a recent blog post about <a href="http://calnewport.com/blog/2018/03/25/beyond-deletefacebook-more-thoughts-on-embracing-the-social-internet-over-social-media/">embracing the Social Internet</a>.</p> 
+<p>He made another set of recommendations to allow people to leverage the benefits of connecting with important people/topics in a recent blog post about <a href="http://calnewport.com/blog/2018/03/25/beyond-deletefacebook-more-thoughts-on-embracing-the-social-internet-over-social-media/">embracing the Social Internet</a>.</p>
 
 
 
