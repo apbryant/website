@@ -18,6 +18,7 @@ export default function Home() {
           <li>How to best integrate technology into our lives</li>
           <li>Languages and the origins of words</li>
           <li>Doing the unscalable</li>
+          <li>Keeping in touch with Latin America</li>
         </ul>
         <h1>Fun facts</h1>
         <ul>
