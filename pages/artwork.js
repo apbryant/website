@@ -10,6 +10,13 @@ export default function Artwork() {
       <div class="row">
         <div class="column">
 
+        <Image
+          src="/images/sketches/process.png" // Route of the image file
+          layout="intrinsic"
+          height={1000} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
             <Image
               src="/images/sketches/maipu_church.jpg" // Route of the image file
               layout="intrinsic"
@@ -46,6 +53,13 @@ export default function Artwork() {
               alt=""
             />
             <Image
+              src="/images/sketches/stepping_stones.png" // Route of the image file
+              layout="intrinsic"
+              height={600} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
+              alt=""
+            />
+            <Image
               src="/images/sketches/200923c.png" // Route of the image file
               layout="intrinsic"
               height={800} // Desired size with correct aspect ratio
@@ -66,6 +80,7 @@ export default function Artwork() {
               width={900} // Desired size with correct aspect ratio
               alt=""
             />
+
             <Image
               src="/images/sketches/hex_sierpinski.png" // Route of the image file
               layout="intrinsic"
@@ -82,9 +97,17 @@ export default function Artwork() {
             />
 
 
+
         </div>
         <div class="column">
 
+        <Image
+          src="/images/sketches/wine_dark_sea.png" // Route of the image file
+          layout="intrinsic"
+          height={600} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
         <Image
           src="/images/sketches/dream_port.jpg" // Route of the image file
           layout="intrinsic"
