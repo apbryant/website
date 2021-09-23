@@ -30,7 +30,7 @@ export default function Home() {
         </ul>
         <h1>Where I am</h1>
         <ul>
-          <li>Santiago, Chile</li>
+          <li>Arlington, Virginia</li>
           <li>bryant.andrew01@gmail.com</li>
           <li><a href="https://twitter.com/andrewpbryant">Twitter</a></li>
           <li><a href="https://www.instagram.com/andrew_paul_bryant/">Instagram</a></li>
