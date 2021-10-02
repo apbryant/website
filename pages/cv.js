@@ -5,7 +5,6 @@ import MyHeader from '../components/MyHeader'
 export default function CV() {
   return (
     <>
-
     <MyHeader />
       <main>
       <h1>Lazarillo, Full Stack Developer, January 2021 - Present</h1>
