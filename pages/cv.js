@@ -7,11 +7,11 @@ export default function CV() {
     <>
     <MyHeader />
       <main>
-      <h1>Lazarillo, Full Stack Developer, January 2021 - Present</h1>
+      <h1>Lazarillo, Full Stack Developer, January 2021 - October 2021</h1>
       <ul>
-        <li>Implement UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
-        <li>Document client APIs and integrate them into the application.</li>
-        <li>Optimize and monitor server costs and performance.</li>
+        <li>Implemented UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
+        <li>Documented client APIs and integrateed them into the application.</li>
+        <li>Optimized and monitord server costs and performance.</li>
       </ul>
       <h1>ZTZ Tech Group</h1>
       <h2>Operations Manager, August 2019 - November 2020</h2>
