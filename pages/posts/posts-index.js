@@ -12,6 +12,11 @@ export default function FirstPost() {
 
 
       <div>
+      <Link href="/posts/is-there-progress">
+        <a>Is there progress?</a>
+      </Link>
+      </div>
+      <div>
       <Link href="/posts/what-makes-something-art">
         <a>What makes something art?</a>
       </Link>
