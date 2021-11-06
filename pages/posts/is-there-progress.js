@@ -12,7 +12,7 @@ export default function IsThereProgress() {
         <h3>06 November 2021</h3>
         <p>Is there progress?</p>
 
-        <p>It seems silly to even pose this question. We live safer lives than our predecessors. Diseases which killed millions each year have been reduced or eradicated. Nearly everyone can read and write, skills once reserved for society’s élite. Clean water, electricity, and air conditioning provide us with a level of comfort that kings lacked. Our smartphones give us more information than presidents of past eras had.</p>
+        <p>It seems silly to even pose this question. We live safer lives than our predecessors. Diseases which killed millions each year have been reduced or eradicated. Nearly everyone can read and write, skills once reserved for society’s elite. Clean water, electricity, and air conditioning provide us with a level of comfort that kings lacked. Our smartphones give us more information than presidents of past eras had.</p>
 
         <p>On the other hand, everybody continues to do the same thing. We wake up, do something to provide for ourselves and our families, and go to bed. Rinse and repeat. This as true today as when we were cavemen. Each person has to figure out life’s lessons.  We'll all feel anxiety, fear, love, and rest of the gamut of emotion. We'll gossip, compete, share, and procrastinate. We'll eat and drink too much, fuck up and try to repair the damage. How is this any different from the thousands of generations that have come before?</p>
 
