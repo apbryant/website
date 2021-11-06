@@ -7,7 +7,9 @@ export default function CV() {
     <>
     <MyHeader />
       <main>
-      <h1>NoveList, Software Engineer II - C#, November 2021 - present</h1>
+      <h1>EBSCO Information Services, Software Engineer II - C#, November 2021 - present</h1>
+
+      <p>I work on the team for the NoveList product.</p>
       <h1>Lazarillo, Full Stack Developer, January 2021 - October 2021</h1>
       <ul>
         <li>Implemented UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
