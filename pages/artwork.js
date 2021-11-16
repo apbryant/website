@@ -11,19 +11,41 @@ export default function Artwork() {
         <div class="column">
 
         <Image
+          src="/images/sketches/sketch_5.jpg" // Route of the image file
+          layout="intrinsic"
+          height={682} // Desired size with correct aspect ratio
+          width={1024} // Desired size with correct aspect ratio
+          alt=""
+        />
+        <Image
+          src="/images/sketches/maipu_church.jpg" // Route of the image file
+          layout="intrinsic"
+          height={1000} // Desired size with correct aspect ratio
+          width={843} // Desired size with correct aspect ratio
+          alt=""
+        />
+        <Image
+          src="/images/sketches/plaza_de_armas_02.jpg" // Route of the image file
+          layout="intrinsic"
+          height={750} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
+        <Image
+          src="/images/sketches/sketch_1ad68270-3395-41a4-989a-603a704ccf65.png" // Route of the image file
+          layout="intrinsic"
+          height={900} // Desired size with correct aspect ratio
+          width={900} // Desired size with correct aspect ratio
+          alt=""
+        />
+        <Image
           src="/images/sketches/process.png" // Route of the image file
           layout="intrinsic"
           height={1000} // Desired size with correct aspect ratio
           width={1000} // Desired size with correct aspect ratio
           alt=""
         />
-            <Image
-              src="/images/sketches/maipu_church.jpg" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={843} // Desired size with correct aspect ratio
-              alt=""
-            />
+
             <Image
               src="/images/sketches/plaza_italia.jpg" // Route of the image file
               layout="intrinsic"
@@ -31,13 +53,7 @@ export default function Artwork() {
               width={1000} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/plaza_de_armas_02.jpg" // Route of the image file
-              layout="intrinsic"
-              height={750} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
+
             <Image
               src="/images/sketches/coast.jpg" // Route of the image file
               layout="intrinsic"
@@ -100,7 +116,20 @@ export default function Artwork() {
 
         </div>
         <div class="column">
-
+        <Image
+          src="/images/sketches/sketch_5dd10adc-6f57-4071-b76c-4aeeaaddaef1.png" // Route of the image file
+          layout="intrinsic"
+          height={900} // Desired size with correct aspect ratio
+          width={900} // Desired size with correct aspect ratio
+          alt=""
+        />
+        <Image
+          src="/images/sketches/sketch_56d871d8-5592-4bc4-8940-e1e29e3ed271.png" // Route of the image file
+          layout="intrinsic"
+          height={900} // Desired size with correct aspect ratio
+          width={900} // Desired size with correct aspect ratio
+          alt=""
+        />
         <Image
           src="/images/sketches/wine_dark_sea.png" // Route of the image file
           layout="intrinsic"

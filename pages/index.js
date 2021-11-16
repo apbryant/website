@@ -14,18 +14,17 @@ export default function Home() {
         <p>I'm a software developer and creative coder from Arlington, Virginia.</p>
         <h1>I'm interested in</h1>
         <ul>
-          <li>The cultural assumptions that underpin societies</li>
-          <li>How to best integrate technology into our lives</li>
-          <li>Languages and the origins of words</li>
-          <li>Doing the unscalable</li>
-          <li>Keeping in touch with Latin America</li>
+          <li>Learning how to best integrate technology into my life</li>
+          <li>Growing as a software developer</li>
+          <li>Connecting with other creatives</li>
         </ul>
         <h1>Fun facts</h1>
         <ul>
           <li>I lived abroad in Santiago, Chile from July 2016 to August 2021</li>
           <li>I've worked as an English as a foreign language teacher</li>
           <li>My favorite food is 🍕</li>
-          <li>I speak fluent Spanish</li>
+          <li>My favorite drink is ☕</li>
+          <li>I speak Spanish well, maybe even fluently</li>
           <li>I code this site myself with next.js</li>
         </ul>
         <h1>Where I am</h1>
