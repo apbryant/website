@@ -8,7 +8,12 @@ export default function FirstPost() {
     <MyHeader />
 
       <h1>Posts</h1>
-
+<div>
+      <Link href="/posts/why-i-hang-out-on-trains">
+        <a>Why I hang out on trains</a>
+      </Link>
+      </div>
+     
 
 
       <div>
