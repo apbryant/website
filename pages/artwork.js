@@ -9,6 +9,20 @@ export default function Artwork() {
     <MyHeader />
       <div class="row">
         <div class="column">
+<Image
+          src="/images/sketches/sketch_2ec0dc24-59d2-44df-8071-f7ca5955e92f.png" // Route of the image file
+          layout="intrinsic"
+          height={900} // Desired size with correct aspect ratio
+          width={900} // Desired size with correct aspect ratio
+          alt=""
+        />
+<Image
+          src="/images/sketches/sketch_2ec93c17-2d8e-4ffc-926f-ec04aee6d7e7.png" // Route of the image file
+          layout="intrinsic"
+          height={900} // Desired size with correct aspect ratio
+          width={900} // Desired size with correct aspect ratio
+          alt=""
+        />
 
         <Image
           src="/images/sketches/sketch_5.jpg" // Route of the image file
@@ -32,17 +46,17 @@ export default function Artwork() {
           alt=""
         />
         <Image
-          src="/images/sketches/sketch_1ad68270-3395-41a4-989a-603a704ccf65.png" // Route of the image file
+          src="/images/sketches/sketch_9134e617-bf72-4a75-abfb-721747159673.png" // Route of the image file
           layout="intrinsic"
           height={900} // Desired size with correct aspect ratio
           width={900} // Desired size with correct aspect ratio
           alt=""
         />
         <Image
-          src="/images/sketches/process.png" // Route of the image file
+          src="/images/sketches/sketch_fd257dcb-0091-4df0-bfce-5e49989e7b51.png" // Route of the image file
           layout="intrinsic"
-          height={1000} // Desired size with correct aspect ratio
-          width={1000} // Desired size with correct aspect ratio
+          height={900} // Desired size with correct aspect ratio
+          width={900} // Desired size with correct aspect ratio
           alt=""
         />
 
@@ -89,48 +103,36 @@ export default function Artwork() {
               width={1000} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/disorder.png" // Route of the image file
-              layout="intrinsic"
-              height={900} // Desired size with correct aspect ratio
-              width={900} // Desired size with correct aspect ratio
-              alt=""
-            />
-
-            <Image
+<Image
               src="/images/sketches/hex_sierpinski.png" // Route of the image file
               layout="intrinsic"
               height={1000} // Desired size with correct aspect ratio
               width={1000} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/200922e.png" // Route of the image file
-              layout="intrinsic"
-              height={600} // Desired size with correct aspect ratio
-              width={600} // Desired size with correct aspect ratio
-              alt=""
-            />
 
-
-
+       
         </div>
         <div class="column">
-        <Image
-          src="/images/sketches/sketch_5dd10adc-6f57-4071-b76c-4aeeaaddaef1.png" // Route of the image file
+
+<Image
+          src="/images/sketches/sketch_1b0abc1f-bdf7-4713-a711-3590f8af4e80.png" // Route of the image file
           layout="intrinsic"
           height={900} // Desired size with correct aspect ratio
           width={900} // Desired size with correct aspect ratio
           alt=""
         />
-        <Image
-          src="/images/sketches/sketch_56d871d8-5592-4bc4-8940-e1e29e3ed271.png" // Route of the image file
+
+<Image
+          src="/images/sketches/sketch_bca29de8-1ac5-4f60-ab16-c5e505f11ab2.png" // Route of the image file
           layout="intrinsic"
           height={900} // Desired size with correct aspect ratio
           width={900} // Desired size with correct aspect ratio
           alt=""
         />
-        <Image
+
+
+               <Image
           src="/images/sketches/wine_dark_sea.png" // Route of the image file
           layout="intrinsic"
           height={600} // Desired size with correct aspect ratio
@@ -200,14 +202,19 @@ export default function Artwork() {
               width={900} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/lissajous_square.png" // Route of the image file
+
+     <Image
+              src="/images/sketches/disorder.png" // Route of the image file
               layout="intrinsic"
               height={900} // Desired size with correct aspect ratio
               width={900} // Desired size with correct aspect ratio
               alt=""
             />
 
+                        
+
+
+           
         </div>
       </div>
 
