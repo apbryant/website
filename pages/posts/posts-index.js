@@ -8,6 +8,16 @@ export default function FirstPost() {
     <MyHeader />
 
       <h1>Posts</h1>
+
+	 <div>
+      <Link href="/posts/a-sketch-of-a-church-in-maipu">
+        <a>A sketch of a church in Maipú</a>
+      </Link>
+      </div>
+
+
+
+
 	 <div>
       <Link href="/posts/minimalism-freedom">
         <a>Minimalism, freedom, and The Dawn of Everything</a>

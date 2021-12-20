@@ -11,7 +11,7 @@ export default function Home() {
         <h1 className="title">
           Welcome to my site!
         </h1>
-        <p>I'm a software developer and creative coder from Arlington, Virginia.</p>
+        <p>I'm a software developer and creative coder.</p>
         <h1>I'm interested in</h1>
         <ul>
           <li>Learning how to best integrate technology into my life</li>
@@ -29,7 +29,7 @@ export default function Home() {
         </ul>
         <h1>Where I am</h1>
         <ul>
-          <li>Arlington, Virginia</li>
+          <li>Richmond, Virginia</li>
           <li>bryant.andrew01@gmail.com</li>
 	<li><a href="https://andrewbryant.substack.com/">Substack</a></li>
           <li><a href="https://twitter.com/andrewpbryant">Twitter</a></li>
