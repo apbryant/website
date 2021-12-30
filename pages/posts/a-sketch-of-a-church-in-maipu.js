@@ -3,7 +3,7 @@ import Link from 'next/link'
 import MyHeader from '../../components/MyHeader'
 import Image from 'next/image'
 
-export default function MinimalismFreedom() {
+export default function ASketchOfAChurchInMaipu() {
   return (
     <>
   <MyHeader />

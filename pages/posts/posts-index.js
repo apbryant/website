@@ -9,6 +9,14 @@ export default function FirstPost() {
 
       <h1>Posts</h1>
 
+		 <div>
+      <Link href="/posts/what-i-missed-about-deep-work">
+        <a>What I missed about deep work</a>
+      </Link>
+      </div>
+
+
+
 	 <div>
       <Link href="/posts/a-sketch-of-a-church-in-maipu">
         <a>A sketch of a church in Maipú</a>
