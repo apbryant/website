@@ -10,6 +10,16 @@ export default function FirstPost() {
       <h1>Posts</h1>
 
 			 <div>
+      <Link href="/posts/lets-see">
+        <a>Let's see</a>
+      </Link>
+      </div>
+
+
+
+
+
+			 <div>
       <Link href="/posts/tracking">
         <a>Tracking</a>
       </Link>
