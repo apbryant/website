@@ -8,6 +8,16 @@ export default function FirstPost() {
     <MyHeader />
 
       <h1>Posts</h1>
+
+			 <div>
+      <Link href="/posts/tracking">
+        <a>Tracking</a>
+      </Link>
+      </div>
+
+
+
+
 			 <div>
       <Link href="/posts/teotihuacan">
         <a>Teotihuacan</a>
