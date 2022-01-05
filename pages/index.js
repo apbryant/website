@@ -9,7 +9,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to my site!
+          Welcome
         </h1>
         <p>I'm a software developer and creative coder.</p>
         <h1>I'm interested in</h1>
