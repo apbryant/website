@@ -9,6 +9,25 @@ export default function Artwork() {
     <MyHeader />
       <div class="row">
         <div class="column">
+
+<Image
+          src="/images/sketches/plaza_de_armas_02.png" // Route of the image file
+          layout="intrinsic"
+          height={1068} // Desired size with correct aspect ratio
+          width={712} // Desired size with correct aspect ratio
+          alt=""
+        />
+
+
+<Image
+          src="/images/sketches/richmond.png" // Route of the image file
+          layout="intrinsic"
+          height={567} // Desired size with correct aspect ratio
+          width={1008} // Desired size with correct aspect ratio
+          alt=""
+        />
+
+
 <Image
           src="/images/sketches/sketch_2ec0dc24-59d2-44df-8071-f7ca5955e92f.png" // Route of the image file
           layout="intrinsic"
@@ -114,6 +133,14 @@ export default function Artwork() {
        
         </div>
         <div class="column">
+<Image
+          src="/images/sketches/canal.png" // Route of the image file
+          layout="intrinsic"
+          height={854} // Desired size with correct aspect ratio
+          width={1281} // Desired size with correct aspect ratio
+          alt=""
+        />
+
 
 <Image
           src="/images/sketches/sketch_1b0abc1f-bdf7-4713-a711-3590f8af4e80.png" // Route of the image file
@@ -167,6 +194,15 @@ export default function Artwork() {
               width={750}
               alt=""
             />
+			            <Image
+              src="/images/sketches/church_hill.png" // Route of the image file
+              layout="intrinsic"
+              height={680} // Desired size with correct aspect ratio
+              width={1209} // Desired size with correct aspect ratio
+              alt=""
+            />
+ 
+ 
             <Image
               src="/images/sketches/valdivia.png" // Route of the image file
               layout="intrinsic"
@@ -174,7 +210,8 @@ export default function Artwork() {
               width={1000}
               alt=""
             />
-            <Image
+
+           <Image
               src="/images/sketches/plotter_2021_5_16_10_35_26.svg" // Route of the image file
               layout="intrinsic"
               height={576} // Desired size with correct aspect ratio

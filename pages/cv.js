@@ -31,8 +31,15 @@ export default function CV() {
         <li>Dashboards using ASP.NET and JavaScript to help users understand their data and the systems they represent</li>
       </ul>
 
-      <h1>Projects</h1>
+      <h1>Exhibitions</h1>
+	<ul>
+	<li>Crossroads Art Center, Black History Month, February 2022</li>
+	<li>The Well Art Gallery, Black History Now II, February 2022</li>
+	<li>Loosen Art, Environmental Alterations, September 2021</li>
+	</ul>
+	<h1>Projects</h1>
       <ul>
+	<li><a href="https://opensea.io/collection/teotihuacan-by-andrew-bryant">Teotihuacan</a>. NFT artwork collection with accompanying prints. 2022.</li>
         <li><a href="https://apbryant.github.io/mapocho/index.html">Mapocho</a>: An exploration of our connection to rivers. Supported with generative artwork based on photos of the Mapocho River in Santiago. 2021.</li>
         <li><a href="https://gum.co/CgiVzv">Photography, Creative Coding, & the Copy Function</a>: E-book explaining how to make photo-based generative artwork. 2021.</li>
         <li><a href="https://gum.co/pJKvHJ">How I Made It</a>: E-book sharing code & explanations of my generative artwork. 2020.</li>

@@ -8,6 +8,16 @@ export default function FirstPost() {
     <MyHeader />
 
       <h1>Posts</h1>
+
+				 <div>
+      <Link href="/posts/git-push-f">
+        <a>git push -f</a>
+      </Link>
+      </div>
+	
+
+
+
 				 <div>
       <Link href="/posts/the-sidewalk-isnt-straight">
         <a>The sidewalk isn't straight</a>
