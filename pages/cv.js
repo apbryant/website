@@ -33,9 +33,9 @@ export default function CV() {
 
       <h1>Exhibitions</h1>
 	<ul>
-	<li>Crossroads Art Center, Black History Month, February 2022</li>
-	<li>The Well Art Gallery, Black History Now II, February 2022</li>
-	<li>Loosen Art, Environmental Alterations, September 2021</li>
+	<li><a href="https://www.crossroadsartcenter.com/collections/black-history-month-call-for-artists-and-online-exhibition">Black History Month</a>, Crossroads Art Center, February 2022</li>
+	<li><a href="https://www.thewellartgallery.com/">Black History Now II</a>, The Well Art Gallery, February 2022</li>
+	<li><a href="https://www.loosenart.com/blogs/magazine/environmental-alterations">Environmental Alterations</a>, Loosen Art, September 2021</li>
 	</ul>
 	<h1>Projects</h1>
       <ul>
