@@ -9,6 +9,14 @@ export default function FirstPost() {
 
       <h1>Posts</h1>
 
+					 <div>
+      <Link href="/posts/whats-missing-in-photos-of-presidents">
+        <a>What's missing in photos of presidents</a>
+      </Link>
+      </div>
+	
+
+
 				 <div>
       <Link href="/posts/git-push-f">
         <a>git push -f</a>
