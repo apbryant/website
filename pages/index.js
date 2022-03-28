@@ -40,7 +40,7 @@ export default function Home() {
         <h1>Stuff I sell</h1>
         <ul>
 	  <li><a href="https://opensea.io/collection/teotihuacan-by-andrew-bryant">Teotihuacan by Andrew Bryant</a></li>
-          <li><a href="https://www.etsy.com/shop/BryantGenArt">Artwork for sale</a></li>
+         
           <li><a href="https://gumroad.com/andrewpbryant">Ebooks about creative coding</a></li>
         </ul>
 
