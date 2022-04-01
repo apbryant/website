@@ -9,7 +9,7 @@ export default function CV() {
       <main>
       <h1>EBSCO Information Services, Software Engineer II - C#, November 2021 - present</h1>
 
-      <p>I work on the team for the NoveList product.</p>
+      <p>I work on the team responsible for the LibraryAware product.</p>
       <h1>Lazarillo, Full Stack Developer, January 2021 - October 2021</h1>
       <ul>
         <li>Implemented UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
