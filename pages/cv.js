@@ -33,6 +33,7 @@ export default function CV() {
 
       <h1>Exhibitions</h1>
 	<ul>
+  <li><a href="https://www.bayschool-arts.com/pages/artspeaks">Art Speaks Juried Exhibition 2022</a>, Bay School Community Arts Center, April 2022</li>
   <li><a href="http://artspacegallery.org/2022/exhibits/all_media_march_april/">March/April Juried All Media Show</a>, Artspace, March 2022</li>
 	<li><a href="https://www.crossroadsartcenter.com/collections/black-history-month-call-for-artists-and-online-exhibition">Black History Month</a>, Crossroads Art Center, February 2022</li>
 	<li><a href="https://www.thewellartgallery.com/">Black History Now II</a>, The Well Art Gallery, February 2022</li>
