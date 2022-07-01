@@ -9,13 +9,18 @@ export default function FirstPost() {
 
       <h1>Posts</h1>
 
+      <div>
+      <Link href="/posts/not-too-comfortable">
+        <a>Not too comfortable</a>
+      </Link>
+      </div>
 
-					 <div>
+			<div>
       <Link href="/posts/learning-from-rap-lyrics">
         <a>Learning from rap lyrics</a>
       </Link>
       </div>
-	
+
 
 
 					 <div>
@@ -23,7 +28,7 @@ export default function FirstPost() {
         <a>What's missing in photos of presidents</a>
       </Link>
       </div>
-	
+
 
 
 				 <div>
@@ -31,7 +36,7 @@ export default function FirstPost() {
         <a>git push -f</a>
       </Link>
       </div>
-	
+
 
 
 
@@ -40,7 +45,7 @@ export default function FirstPost() {
         <a>The sidewalk isn't straight</a>
       </Link>
       </div>
-	
+
 
 
 			 <div>
@@ -112,7 +117,7 @@ export default function FirstPost() {
         <a>Why I hang out on trains</a>
       </Link>
       </div>
-     
+
 
 
       <div>
