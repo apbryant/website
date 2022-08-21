@@ -43,6 +43,11 @@ export default function CV() {
 	<li><a href="https://www.thewellartgallery.com/">Black History Now II</a>, The Well Art Gallery, February 2022</li>
 	<li><a href="https://www.loosenart.com/blogs/magazine/environmental-alterations">Environmental Alterations</a>, Loosen Art, September 2021</li>
 	</ul>
+
+  <h1>Conferences</h1>
+  <ul>
+    <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2022/">Full STEAM Ahead 2022</a>, CodeVA, July 2022</li>
+  </ul>
 	<h1>Projects</h1>
       <ul>
 	<li><a href="https://opensea.io/collection/teotihuacan-by-andrew-bryant">Teotihuacan</a>: NFT artwork collection with accompanying prints. 2022.</li>
