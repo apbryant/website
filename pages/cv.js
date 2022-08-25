@@ -33,6 +33,7 @@ export default function CV() {
 
       <h1>Exhibitions</h1>
 	<ul>
+  <li><a href="https://demofestival.com/participants">Design in Motion Festival</a>, October 2022</li>
   <li><a href="https://www.artworkarchive.com/profile/d-art-center/exhibition/portrayed-ii-d-art-center-s-second-national-portraiture-exhibition/pieces?page=2">Portrayed II: d'Art Center's Second National Portraiture Exhibition</a>, d'Art Center, July 2022</li>
   <li><a href="https://libertytownarts.com/in-the-gallery/">The Urban Landscape</a>, LibertyTown Arts Workshop, July 2022</li>
   <li><a href="https://metrorichmondart.org/exhibitions-events/">Where We Live, Richmond In Perspective</a>, Metropolitan Richmond Artists Association, June 2022</li>
