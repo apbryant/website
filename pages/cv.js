@@ -46,7 +46,7 @@ export default function CV() {
   <li><a href="https://www.instagram.com/p/CRZJ2UGr6s7/">Live plotting</a>,Área, July 2021</li>
 	</ul>
 
-  <h1>Memberships</h1>
+  <h1>Membership</h1>
   <ul>
     <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a></li>
   </ul>
