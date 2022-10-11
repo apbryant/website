@@ -43,7 +43,7 @@ export default function CV() {
 	<li><a href="https://www.crossroadsartcenter.com/collections/black-history-month-call-for-artists-and-online-exhibition">Black History Month</a>, Crossroads Art Center, February 2022</li>
 	<li><a href="https://www.thewellartgallery.com/">Black History Now II</a>, The Well Art Gallery, February 2022</li>
 	<li><a href="https://www.loosenart.com/blogs/magazine/environmental-alterations">Environmental Alterations</a>, Loosen Art, September 2021</li>
-  <li><a href="https://www.instagram.com/p/CRZJ2UGr6s7/">Live plotting</a>,Área, July 2021</li>
+  <li><a href="https://www.instagram.com/p/CRZJ2UGr6s7/">Live plotting</a>, Área, July 2021</li>
 	</ul>
 
   <h1>Membership</h1>
