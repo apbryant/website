@@ -10,6 +10,12 @@ export default function FirstPost() {
       <h1>Posts</h1>
 
       <div>
+      <Link href="/posts/quench">
+        <a>Quench</a>
+      </Link>
+      </div>
+
+      <div>
       <Link href="/posts/old-is-new">
         <a>Old is new</a>
       </Link>

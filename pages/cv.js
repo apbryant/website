@@ -33,6 +33,7 @@ export default function CV() {
 
       <h1>Exhibitions</h1>
 	<ul>
+  <li><a href="https://metrorichmondart.org/upcoming-event-november-12-2022-member-share-drop-off-for-annual-show/">MRAA Annual Members Show</a>, November 2022</li>
   <li><a href="https://metrorichmondart.org/klma-show-submit-now/">KLMA Show</a>, October 2022</li>
   <li><a href="https://demofestival.com/participants">Design in Motion Festival</a>, October 2022</li>
   <li><a href="https://www.artworkarchive.com/profile/d-art-center/exhibition/portrayed-ii-d-art-center-s-second-national-portraiture-exhibition/pieces?page=2">Portrayed II: d'Art Center's Second National Portraiture Exhibition</a>, d'Art Center, July 2022</li>
@@ -78,7 +79,7 @@ export default function CV() {
       <h1>Education & Certificates</h1>
       <ul>
         <li>Udacity, Data Analyst Nanodegree, 2017</li>
-        <li>William and Mary, BA Economics, 2015</li>
+        <li>William & Mary, B.A. Economics, 2015</li>
       </ul>
       </main>
 
