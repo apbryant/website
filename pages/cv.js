@@ -31,8 +31,14 @@ export default function CV() {
         <li>Dashboards using ASP.NET and JavaScript to help users understand their data and the systems they represent</li>
       </ul>
 
-      <h1>Exhibitions</h1>
+  <h1>Solo Exhibitions</h1>
+  <ul>
+  <li><a href="https://rvalibrary.org/events/art-exhibits/">Past & Future</a>, Richmond Main Library, February 2023</li>
+  </ul>
+
+  <h1>Group Exhibitions</h1>
 	<ul>
+  <li><a href="https://www.crossroadsartcenter.com/collections/celebrating-black-history-month">Celebrating Black History Month Through Art</a>, Crossroads Art Center, January - March 2023</li>
   <li><a href="https://metrorichmondart.org/upcoming-event-november-12-2022-member-share-drop-off-for-annual-show/">MRAA Annual Members Show</a>, November 2022</li>
   <li><a href="https://metrorichmondart.org/klma-show-submit-now/">KLMA Show</a>, October 2022</li>
   <li><a href="https://demofestival.com/participants">Design in Motion Festival</a>, October 2022</li>
@@ -53,8 +59,9 @@ export default function CV() {
     <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a></li>
   </ul>
 
-  <h1>Conferences</h1>
+  <h1>Conferences/Talks</h1>
   <ul>
+  <li><a href="https://metrorichmondart.org/upcoming-event-february-11-2023-andrew-bryant-generative-art/">What is Generative Art</a>, Metropolitan Richmond Artists Association, July 2023</li>
     <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2022/">Full STEAM Ahead 2022</a>, CodeVA, July 2022</li>
   </ul>
 	<h1>Projects</h1>
@@ -76,9 +83,8 @@ export default function CV() {
 
 
 
-      <h1>Education & Certificates</h1>
+      <h1>Education</h1>
       <ul>
-        <li>Udacity, Data Analyst Nanodegree, 2017</li>
         <li>William & Mary, B.A. Economics, 2015</li>
       </ul>
       </main>

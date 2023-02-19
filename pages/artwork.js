@@ -10,7 +10,15 @@ export default function Artwork() {
       <div class="row">
         <div class="column">
 
-<Image
+        <Image
+          src="/images/sketches/un-momento-de-calma.jpg" // Route of the image file
+          layout="intrinsic"
+          height={1000} // Desired size with correct aspect ratio
+          width={667} // Desired size with correct aspect ratio
+          alt=""
+        />
+
+        <Image
           src="/images/sketches/plaza_de_armas_02.png" // Route of the image file
           layout="intrinsic"
           height={1068} // Desired size with correct aspect ratio
@@ -101,13 +109,7 @@ export default function Artwork() {
               width={1000}
               alt=""
             />
-            <Image
-              src="/images/sketches/stepping_stones.png" // Route of the image file
-              layout="intrinsic"
-              height={600} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
+
             <Image
               src="/images/sketches/200923c.png" // Route of the image file
               layout="intrinsic"
@@ -115,24 +117,28 @@ export default function Artwork() {
               width={800} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/image.png" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
-<Image
-              src="/images/sketches/hex_sierpinski.png" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
+
 
        
         </div>
         <div class="column">
+
+
+        <Image
+          src="/images/sketches/birds-eye-view.jpg" // Route of the image file
+          layout="intrinsic"
+          height={667} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
+
+        <Image
+          src="/images/sketches/smog.jpg" // Route of the image file
+          layout="intrinsic"
+          height={667} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
 <Image
           src="/images/sketches/canal.png" // Route of the image file
           layout="intrinsic"
@@ -202,7 +208,7 @@ export default function Artwork() {
               alt=""
             />
  
- 
+
             <Image
               src="/images/sketches/valdivia.png" // Route of the image file
               layout="intrinsic"
@@ -232,25 +238,21 @@ export default function Artwork() {
               width={640} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/handwriting.png" // Route of the image file
+
+<Image
+              src="/images/sketches/image.png" // Route of the image file
               layout="intrinsic"
-              height={900} // Desired size with correct aspect ratio
-              width={900} // Desired size with correct aspect ratio
+              height={1000} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
               alt=""
             />
-
-     <Image
-              src="/images/sketches/disorder.png" // Route of the image file
+<Image
+              src="/images/sketches/hex_sierpinski.png" // Route of the image file
               layout="intrinsic"
-              height={900} // Desired size with correct aspect ratio
-              width={900} // Desired size with correct aspect ratio
+              height={1000} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
               alt=""
             />
-
-                        
-
-
            
         </div>
       </div>
