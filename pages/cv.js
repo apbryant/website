@@ -10,6 +10,17 @@ export default function CV() {
       <h1>EBSCO Information Services, Software Engineer II - C#, November 2021 - present</h1>
 
       <p>I work on the team responsible for the LibraryAware product.</p>
+      <ul>
+        <li>
+          Migrate product email delivery from on-premises software to Amazon Web Services Simple Email Service
+        </li>
+        <li>
+          Implement bug fixes and product improvements using C# and React
+        </li>
+        <li>
+          Participate in planning and refinment of features and user stories
+        </li>
+      </ul>
       <h1>Lazarillo, Full Stack Developer, January 2021 - October 2021</h1>
       <ul>
         <li>Implemented UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
@@ -88,6 +99,16 @@ export default function CV() {
       <ul>
         <li>William & Mary, B.A. Economics, 2015</li>
       </ul>
+      <h1>Certifications</h1>
+      <ul>
+        <li>
+          AWS, Certified Cloud Practicioner, 2023
+        </li>
+        <li>
+         Udacity, Data Analyst Nanodegree, 2017
+        </li>
+      </ul>
+
       </main>
 
             <footer>
