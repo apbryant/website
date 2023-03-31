@@ -46,7 +46,7 @@ export default function CV() {
   <li><a href="https://www.artworkarchive.com/profile/d-art-center/exhibition/portrayed-ii-d-art-center-s-second-national-portraiture-exhibition/pieces?page=2">Portrayed II: d'Art Center's Second National Portraiture Exhibition</a>, d'Art Center, July 2022</li>
   <li><a href="https://libertytownarts.com/in-the-gallery/">The Urban Landscape</a>, LibertyTown Arts Workshop, July 2022</li>
   <li><a href="https://metrorichmondart.org/exhibitions-events/">Where We Live, Richmond In Perspective</a>, Metropolitan Richmond Artists Association, June 2022</li>
-  <li><a href="https://www.crossroadsartcenter.com/">May 2022 All Media Show</a>, Honorable Mention, Crossroads Art Center, February 2022</li>
+  <li><a href="https://www.crossroadsartcenter.com/">May 2022 All Media Show</a>, Honorable Mention, Crossroads Art Center, May 2022</li>
   <li><a href="https://www.bayschool-arts.com/pages/artspeaks">Art Speaks Juried Exhibition 2022</a>, Bay School Community Arts Center, April 2022</li>
   <li><a href="http://artspacegallery.org/2022/exhibits/all_media_march_april/">March/April Juried All Media Show</a>, Artspace, March 2022</li>
 	<li><a href="https://www.crossroadsartcenter.com/collections/black-history-month-call-for-artists-and-online-exhibition">Black History Month</a>, Crossroads Art Center, February 2022</li>
