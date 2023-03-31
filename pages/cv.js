@@ -7,7 +7,8 @@ export default function CV() {
     <>
     <MyHeader />
       <main>
-      <h1>EBSCO Information Services, Software Engineer II - C#, November 2021 - present</h1>
+        <h1>Professional Experience</h1>
+      <h2>EBSCO Information Services, Software Engineer II - C#, November 2021 - present</h2>
 
       <p>I work on the team responsible for the LibraryAware product.</p>
       <ul>
@@ -21,20 +22,20 @@ export default function CV() {
           Participate in planning and refinment of features and user stories
         </li>
       </ul>
-      <h1>Lazarillo, Full Stack Developer, January 2021 - October 2021</h1>
+      <h2>Lazarillo, Full Stack Developer, January 2021 - October 2021</h2>
       <ul>
         <li>Implemented UI changes to the platform's iOS and Angular web applications to improve the platform's accessibility and performance.</li>
         <li>Documented client APIs and integrated them into the application.</li>
         <li>Optimized and monitored server costs and performance.</li>
       </ul>
-      <h1>ZTZ Tech Group</h1>
-      <h2>Operations Manager, August 2019 - November 2020</h2>
+      <h2>ZTZ Tech Group</h2>
+      <h3>Operations Manager, August 2019 - November 2020</h3>
       <ul>
         <li>Implemented  sales pipeline with LinkedIn and Activecampaign, which led to a new client, several free trials of the product, and tens of thousands of dollars from  existing clients and programs entering the company.</li>
         <li>Developed and implemented content marketing strategy, which resulted in over two-dozen articles on the company website and LinkedIn.</li>
         <li>Led team of five interns, providing leadership and professional development. Under my guidance one intern doubled the amount of sales contacts sent and sales meetings scheduled. Another pair of interns each published in-depth articles about the Chilean consumer  complaints markets at a rate of one per week.</li>
       </ul>
-      <h2>Full Stack Developer, July 2017 - August 2019</h2>
+      <h3>Full Stack Developer, July 2017 - August 2019</h3>
       <p>Created and implemented key parts of the company’s product, software for creating documents inside of legal and customer service organizations, including:</p>
       <ul>
         <li>A text classification algorithm using Python and ASP.NET to classify user documents</li>
