@@ -31,7 +31,7 @@ export default function CV() {
       <h2>ZTZ Tech Group</h2>
       <h3>Operations Manager, August 2019 - November 2020</h3>
       <ul>
-        <li>Implemented  sales pipeline with LinkedIn and Activecampaign, which led to a new client, several free trials of the product, and tens of thousands of dollars from  existing clients and programs entering the company.</li>
+        <li>Implemented sales pipeline with LinkedIn and Activecampaign, which led to a new client, several free trials of the product, and tens of thousands of dollars from  existing clients and programs entering the company.</li>
         <li>Developed and implemented content marketing strategy, which resulted in over two-dozen articles on the company website and LinkedIn.</li>
         <li>Led team of five interns, providing leadership and professional development. Under my guidance one intern doubled the amount of sales contacts sent and sales meetings scheduled. Another pair of interns each published in-depth articles about the Chilean consumer  complaints markets at a rate of one per week.</li>
       </ul>
