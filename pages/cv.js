@@ -51,6 +51,8 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
+  <li><a href="https://metrorichmondart.org/show-opportunity-truist-bank/">Show At Truist Bank Gallery</a>, MRAA, May 2023</li>
+  <li><a href="https://artworksrva.com/blog/events/all-media-show-6/">All Media Show</a>, Art Works, April - May 2023</li>
   <li><a href="https://www.crossroadsartcenter.com/collections/celebrating-black-history-month">Celebrating Black History Month Through Art</a>, Crossroads Art Center, January - March 2023</li>
   <li><a href="https://metrorichmondart.org/upcoming-event-november-12-2022-member-share-drop-off-for-annual-show/">MRAA Annual Members Show</a>, November 2022</li>
   <li><a href="https://metrorichmondart.org/klma-show-submit-now/">KLMA Show</a>, October 2022</li>
@@ -68,7 +70,8 @@ export default function CV() {
 
   <h1>Membership</h1>
   <ul>
-    <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a></li>
+    <li><a href="https://www.rvayimby.org/">RVA YIMBY</a>, Lead</li>
+    <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a>, board member, webmaster</li>
   </ul>
 
   <h1>Conferences/Talks</h1>
