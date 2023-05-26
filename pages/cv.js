@@ -56,7 +56,7 @@ export default function CV() {
   <li><a href="https://www.crossroadsartcenter.com/collections/celebrating-black-history-month">Celebrating Black History Month Through Art</a>, Crossroads Art Center, January - March 2023</li>
   <li><a href="https://metrorichmondart.org/upcoming-event-november-12-2022-member-share-drop-off-for-annual-show/">MRAA Annual Members Show</a>, November 2022</li>
   <li><a href="https://metrorichmondart.org/klma-show-submit-now/">KLMA Show</a>, October 2022</li>
-  <li><a href="https://demofestival.com/participants">Design in Motion Festival</a>, October 2022</li>
+  <li><a href="https://demofestival.com/past-festivals/demofestival2022">Design in Motion Festival</a>, October 2022</li>
   <li><a href="https://www.artworkarchive.com/profile/d-art-center/exhibition/portrayed-ii-d-art-center-s-second-national-portraiture-exhibition/pieces?page=2">Portrayed II: d'Art Center's Second National Portraiture Exhibition</a>, d'Art Center, July 2022</li>
   <li><a href="https://libertytownarts.com/in-the-gallery/">The Urban Landscape</a>, LibertyTown Arts Workshop, July 2022</li>
   <li><a href="https://metrorichmondart.org/exhibitions-events/">Where We Live, Richmond In Perspective</a>, Metropolitan Richmond Artists Association, June 2022</li>
