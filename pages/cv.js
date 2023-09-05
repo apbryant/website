@@ -51,6 +51,8 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
+  <li><a href="https://artworksrva.com/blog/events/all-media-show-8/">All Media Show</a>, Art Works, August - September 2023</li>
+  <li><a href="https://metrorichmondart.org/past-exhibitions/">Summer in the City</a>, Metro Richmond Artists Association, June - August 2023</li>
   <li><a href="https://metrorichmondart.org/show-opportunity-truist-bank/">Show At Truist Bank Gallery</a>, MRAA, May 2023</li>
   <li><a href="https://artworksrva.com/blog/events/all-media-show-6/">All Media Show</a>, Art Works, April - May 2023</li>
   <li><a href="https://www.crossroadsartcenter.com/collections/celebrating-black-history-month">Celebrating Black History Month Through Art</a>, Crossroads Art Center, January - March 2023</li>
@@ -59,7 +61,8 @@ export default function CV() {
   <li><a href="https://demofestival.com/past-festivals/demofestival2022">Design in Motion Festival</a>, October 2022</li>
   <li><a href="https://www.artworkarchive.com/profile/d-art-center/exhibition/portrayed-ii-d-art-center-s-second-national-portraiture-exhibition/pieces?page=2">Portrayed II: d'Art Center's Second National Portraiture Exhibition</a>, d'Art Center, July 2022</li>
   <li><a href="https://libertytownarts.com/in-the-gallery/">The Urban Landscape</a>, LibertyTown Arts Workshop, July 2022</li>
-  <li><a href="https://metrorichmondart.org/exhibitions-events/">Where We Live, Richmond In Perspective</a>, Metropolitan Richmond Artists Association, June 2022</li>
+  <li><a href="https://metrorichmondart.org/kind-of-blue-opens-july-15-at-cultural-arts-center-at-glen-allen/">Kind of Blue</a>, Metropolitan Richmond Artists Association, June - August 2022</li>
+  <li><a href="https://metrorichmondart.org/where-we-live-opens-june-2022-at-richmond-public-library/">Where We Live, Richmond In Perspective</a>, Metropolitan Richmond Artists Association, June 2022</li>
   <li><a href="https://www.crossroadsartcenter.com/">May 2022 All Media Show</a>, Honorable Mention, Crossroads Art Center, May 2022</li>
   <li><a href="https://www.bayschool-arts.com/pages/artspeaks">Art Speaks Juried Exhibition 2022</a>, Bay School Community Arts Center, April 2022</li>
   <li><a href="http://artspacegallery.org/2022/exhibits/all_media_march_april/">March/April Juried All Media Show</a>, Artspace, March 2022</li>
