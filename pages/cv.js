@@ -109,8 +109,9 @@ export default function CV() {
       <h1>Certifications</h1>
       <ul>
         <li>
-          AWS, Certified Developer - Associate, 2023
-        </li>
+          <a href="https://www.credly.com/badges/d713a8d6-c789-4730-9019-0c8e4020244e/public_url"> AWS, Certified Developer - Associate</a>, 2023
+
+      </li>
         <li>
           AWS, Certified Cloud Practicioner, 2023
         </li>
