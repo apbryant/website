@@ -109,6 +109,9 @@ export default function CV() {
       <h1>Certifications</h1>
       <ul>
         <li>
+          AWS, Certified Developer - Associate, 2023
+        </li>
+        <li>
           AWS, Certified Cloud Practicioner, 2023
         </li>
         <li>
