@@ -12,6 +12,7 @@ export default function CV() {
 
       <p>I work on the team responsible for the LibraryAware product.</p>
       <ul>
+        <li>Migrate portions of the application's code and data into Amazon Web Services</li>
         <li>
           Migrate product email delivery from on-premises software to Amazon Web Services Simple Email Service
         </li>
