@@ -52,6 +52,11 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
+  <li>The Art Seen Pop-Up Exhibition, November 2023</li>
+  <li>MRAA Annual Show, Crossroads Art Center, November 2023</li>
+  <li><a href="https://www.heragallery.org/coding-creativity">Coding Creativity</a>, Hera Gallery, October - November 2023</li>
+  <li>Boyd Realty, October 2023</li>
+  <li>The Art Seen Art Walk, September 2023</li>
   <li><a href="https://artworksrva.com/blog/events/all-media-show-8/">All Media Show</a>, Art Works, August - September 2023</li>
   <li><a href="https://metrorichmondart.org/past-exhibitions/">Summer in the City</a>, Metro Richmond Artists Association, June - August 2023</li>
   <li><a href="https://metrorichmondart.org/show-opportunity-truist-bank/">Show At Truist Bank Gallery</a>, MRAA, May 2023</li>
