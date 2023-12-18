@@ -80,7 +80,7 @@ export default function CV() {
   <h1>Membership</h1>
   <ul>
     <li><a href="https://www.rvayimby.org/">RVA YIMBY</a>, Lead</li>
-    <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a>Webmaster</li>
+    <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a> Webmaster</li>
   </ul>
 
   <h1>Conferences/Talks</h1>

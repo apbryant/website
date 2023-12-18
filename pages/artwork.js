@@ -9,6 +9,14 @@ export default function Artwork() {
     <MyHeader />
       <div class="row">
         <div class="column">
+ <Image
+          src="/images/sketches/looking_down_onto_the_street_24x18.png" // Route of the image file
+          layout="intrinsic"
+          height={750} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
+
 
         <Image
           src="/images/sketches/un-momento-de-calma.jpg" // Route of the image file
@@ -79,23 +87,9 @@ export default function Artwork() {
           width={900} // Desired size with correct aspect ratio
           alt=""
         />
-        <Image
-          src="/images/sketches/sketch_fd257dcb-0091-4df0-bfce-5e49989e7b51.png" // Route of the image file
-          layout="intrinsic"
-          height={900} // Desired size with correct aspect ratio
-          width={900} // Desired size with correct aspect ratio
-          alt=""
-        />
+       
 
-            <Image
-              src="/images/sketches/plaza_italia.jpg" // Route of the image file
-              layout="intrinsic"
-              height={750} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
-
-            <Image
+                  <Image
               src="/images/sketches/coast.jpg" // Route of the image file
               layout="intrinsic"
               height={1000} // Desired size with correct aspect ratio
@@ -122,6 +116,22 @@ export default function Artwork() {
        
         </div>
         <div class="column">
+       <Image
+          src="/images/sketches/morning_walk_16x24.png" // Route of the image file
+          layout="intrinsic"
+          height={667} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
+
+      <Image
+          src="/images/sketches/building_blocks_24x16.png" // Route of the image file
+          layout="intrinsic"
+          height={667} // Desired size with correct aspect ratio
+          width={1000} // Desired size with correct aspect ratio
+          alt=""
+        />
+
 
 
         <Image
@@ -179,6 +189,16 @@ export default function Artwork() {
           width={1000} // Desired size with correct aspect ratio
           alt=""
         />
+
+          <Image
+              src="/images/sketches/plaza_italia.jpg" // Route of the image file
+              layout="intrinsic"
+              height={750} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
+              alt=""
+            />
+
+
             <Image
               src="/images/sketches/big.jpg" // Route of the image file
               layout="intrinsic"
