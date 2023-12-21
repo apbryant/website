@@ -113,6 +113,29 @@ export default function Artwork() {
             />
 
 
+            <Image
+              src="/images/sketches/200913p.png" // Route of the image file
+              layout="intrinsic"
+              height={640} // Desired size with correct aspect ratio
+              width={640} // Desired size with correct aspect ratio
+              alt=""
+            />
+
+<Image
+              src="/images/sketches/image.png" // Route of the image file
+              layout="intrinsic"
+              height={1000} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
+              alt=""
+            />
+<Image
+              src="/images/sketches/hex_sierpinski.png" // Route of the image file
+              layout="intrinsic"
+              height={1000} // Desired size with correct aspect ratio
+              width={1000} // Desired size with correct aspect ratio
+              alt=""
+            />
+ 
        
         </div>
         <div class="column">
@@ -251,29 +274,7 @@ export default function Artwork() {
               width={640} // Desired size with correct aspect ratio
               alt=""
             />
-            <Image
-              src="/images/sketches/200913p.png" // Route of the image file
-              layout="intrinsic"
-              height={640} // Desired size with correct aspect ratio
-              width={640} // Desired size with correct aspect ratio
-              alt=""
-            />
-
-<Image
-              src="/images/sketches/image.png" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
-<Image
-              src="/images/sketches/hex_sierpinski.png" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
-           
+          
         </div>
       </div>
 
