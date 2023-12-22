@@ -202,7 +202,7 @@ export default function Artwork() {
           src="/images/sketches/wine_dark_sea.png" // Route of the image file
           layout="intrinsic"
           height={600} // Desired size with correct aspect ratio
-          width={1000} // Desired size with correct aspect ratio
+          width={900} // Desired size with correct aspect ratio
           alt=""
         />
         <Image
