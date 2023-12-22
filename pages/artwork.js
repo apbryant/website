@@ -128,14 +128,7 @@ export default function Artwork() {
               width={1000} // Desired size with correct aspect ratio
               alt=""
             />
-<Image
-              src="/images/sketches/hex_sierpinski.png" // Route of the image file
-              layout="intrinsic"
-              height={1000} // Desired size with correct aspect ratio
-              width={1000} // Desired size with correct aspect ratio
-              alt=""
-            />
- 
+
        
         </div>
         <div class="column">
