@@ -7,6 +7,7 @@ export default function Artwork() {
   return (
     <>
     <MyHeader />
+      <h4 id="artworkHeader">If you see something you want to buy, <a href="https://andrewpaulbryant.art/contact">get in touch</a></h4>
       <div class="row">
         <div class="column">
  <Image
