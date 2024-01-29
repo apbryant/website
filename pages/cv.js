@@ -52,8 +52,9 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
-  <li>The Art Seen Pop-Up Exhibition, November 2023</li>
+  <li>All Media Show, Art Works, January - February 2024</li>
   <li>MRAA Annual Show, Crossroads Art Center, November 2023</li>
+  <li>The Art Seen Pop-Up Exhibition, November 2023</li>
   <li><a href="https://www.heragallery.org/coding-creativity">Coding Creativity</a>, Hera Gallery, October - November 2023</li>
   <li>Boyd Realty, October 2023</li>
   <li>The Art Seen Art Walk, September 2023</li>
