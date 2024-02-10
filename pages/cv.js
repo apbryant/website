@@ -86,7 +86,8 @@ export default function CV() {
 
   <h1>Conferences/Talks</h1>
   <ul>
-  <li><a href="https://metrorichmondart.org/upcoming-event-february-11-2023-andrew-bryant-generative-art/">What is Generative Art?</a>, Metropolitan Richmond Artists Association, July 2023</li>
+    <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2023/">Full STEAM Ahead 2023</a>, CodeVA, June 2023</li>
+  <li><a href="https://metrorichmondart.org/upcoming-event-february-11-2023-andrew-bryant-generative-art/">What is Generative Art?</a>, Metropolitan Richmond Artists Association, February 2023</li>
   <li><a href="https://www.codevirginia.org/event/computer-science-education-week-2022/">CS Ed Week Launch 2022</a>, CodeVA, December 2022</li>
     <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2022/">Full STEAM Ahead 2022</a>, CodeVA, July 2022</li>
   </ul>
