@@ -33,7 +33,6 @@ export default function Home() {
 	        <li><a href="https://andrewbryant.substack.com/">Substack</a></li>
           <li><a href="https://www.instagram.com/andrew_paul_bryant/">Instagram</a></li>
           <li><a href="https://github.com/apbryant">GitHub</a></li>
-          <li><a href="https://www.linkedin.com/in/andrew-paul-bryant/">LinkedIn</a></li>
         </ul>
         <h1>Stuff I sell</h1>
         <ul>
