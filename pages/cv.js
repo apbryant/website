@@ -52,6 +52,8 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
+  <li>syn·the·sis: digital craft, Floyd Center for the Arts, June - August 2024</li>
+  <li>Art Speaks, The Bay School Community Arts Center, April - May 2024</li>
   <li>All Media Show, Art Works, January - February 2024</li>
   <li>MRAA Annual Show, Crossroads Art Center, November 2023</li>
   <li>The Art Seen Pop-Up Exhibition, November 2023</li>
