@@ -52,33 +52,33 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
-  <li>syn·the·sis: digital craft, Floyd Center for the Arts, Floyd, Virginia, United States, June - August 2024</li>
-  <li>Arts on the Lawn, Hermitage Richmond, Richmond, Virginia, United States, May 2024</li>
-  <li>Art Speaks, The Bay School Community Arts Center, Mathews, Virginia, United States, April - May 2024</li>
-  <li>All Media Show, Art Works, Richmond, Virginia, United States, January - February 2024</li>
-  <li>Metropolitan Richmond Artists Association Annual Show, Crossroads Art Center, Richmond, Virginia, United States, November 2023</li>
-  <li>The Art Seen Pop-Up Exhibition, Richmond, Virginia, United States, November 2023</li>
-  <li><a href="https://www.heragallery.org/coding-creativity">Coding Creativity</a>, Hera Gallery, Warwick, Rhode Island, October - November 2023</li>
-  <li>Boyd Realty, Abstraktors, Richmond, Virginia, United States, October 2023</li>
-  <li>The Art Seen Art Walk, Richmond, Virginia, United States, September 2023</li>
-  <li><a href="https://artworksrva.com/blog/events/all-media-show-8/">All Media Show</a>, Art Works, Richmond, Virginia, United States, August - September 2023</li>
-  <li><a href="https://metrorichmondart.org/past-exhibitions/">Summer in the City</a>, Metropolitan Richmond Artists Association, Richmond, Virginia, United States, June - August 2023</li>
-  <li><a href="https://metrorichmondart.org/show-opportunity-truist-bank/">Show At Truist Bank Gallery</a>, Metropolitan Richmond Artists Association, Richmond, Virginia, United States, May 2023</li>
-  <li><a href="https://artworksrva.com/blog/events/all-media-show-6/">All Media Show</a>, Art Works, Richmond, Virginia, United States, April - May 2023</li>
-  <li><a href="https://www.crossroadsartcenter.com/collections/celebrating-black-history-month">Celebrating Black History Month Through Art</a>, Crossroads Art Center, Richmond, Virginia, United States, January - March 2023</li>
-  <li><a href="https://metrorichmondart.org/upcoming-event-november-12-2022-member-share-drop-off-for-annual-show/">MRAA Annual Members Show</a>, Richmond, Virginia, United States, November 2022</li>
-  <li><a href="https://metrorichmondart.org/klma-show-submit-now/">KLMA Show</a>, Innsbrook, Virginia, United States, October 2022</li>
-  <li><a href="https://demofestival.com/past-festivals/demofestival2022">Design in Motion Festival</a>, The Netherlands, October 2022</li>
-  <li><a href="https://www.artworkarchive.com/profile/d-art-center/exhibition/portrayed-ii-d-art-center-s-second-national-portraiture-exhibition/pieces?page=2">Portrayed II: d'Art Center's Second National Portraiture Exhibition</a>, d'Art Center, Norfolk, Virginia, United States, July 2022</li>
-  <li><a href="https://libertytownarts.com/in-the-gallery/">The Urban Landscape</a>, LibertyTown Arts Workshop, Fredericksburg, Virginia, United States, July 2022</li>
-  <li><a href="https://metrorichmondart.org/kind-of-blue-opens-july-15-at-cultural-arts-center-at-glen-allen/">Kind of Blue</a>, Metropolitan Richmond Artists Association, Glen Allen, Virginia, United States, June - August 2022</li>
-  <li><a href="https://metrorichmondart.org/where-we-live-opens-june-2022-at-richmond-public-library/">Where We Live, Richmond In Perspective</a>, Metropolitan Richmond Artists Association, Richmond, Virginia, United States, June 2022</li>
-  <li><a href="https://www.crossroadsartcenter.com/">May 2022 All Media Show</a>, Honorable Mention, Crossroads Art Center, Richmond, Virginia, United States, May 2022</li>
-  <li><a href="https://www.bayschool-arts.com/pages/artspeaks">Art Speaks Juried Exhibition 2022</a>, Bay School Community Arts Center, Mathews, Virginia, United States, April 2022</li>
-  <li><a href="http://artspacegallery.org/2022/exhibits/all_media_march_april/">March/April Juried All Media Show</a>, Artspace, Richmond, Virginia, United States, March 2022</li>
-	<li><a href="https://www.crossroadsartcenter.com/collections/black-history-month-call-for-artists-and-online-exhibition">Black History Month</a>, Crossroads Art Center, Richmond, Virginia, United States, February 2022</li>
-	<li><a href="https://www.thewellartgallery.com/">Black History Now II</a>, The Well Art Gallery, Richmond, Virginia, United States, February 2022</li>
-	<li><a href="https://www.loosenart.com/blogs/magazine/environmental-alterations">Environmental Alterations</a>, Loosen Art, Rome, Italy, September 2021</li>
+  <li>syn·the·sis: digital craft | Floyd Center for the Arts | Floyd, Virginia, United States | June - August 2024</li>
+  <li>Arts on the Lawn | Hermitage Richmond | Richmond, Virginia, United States | May 2024</li>
+  <li>Art Speaks | The Bay School Community Arts Center | Mathews, Virginia, United States | April - May 2024</li>
+  <li>All Media Show | Art Works | Richmond, Virginia, United States | January - February 2024</li>
+  <li>Metropolitan Richmond Artists Association Annual Show | Crossroads Art Center | Richmond, Virginia, United States | November 2023</li>
+  <li>The Art Seen Pop-Up Exhibition | Richmond, Virginia, United States | November 2023</li>
+  <li><a href="https://www.heragallery.org/coding-creativity">Coding Creativity</a> | Hera Gallery | Wakefield, Rhode Island, United States | October - November 2023</li>
+  <li>Boyd Realty | Abstraktors | Richmond, Virginia, United States | October 2023</li>
+  <li>The Art Seen Art Walk | Richmond, Virginia, United States | September 2023</li>
+  <li><a href="https://artworksrva.com/blog/events/all-media-show-8/">All Media Show</a> | Art Works | Richmond, Virginia, United States | August - September 2023</li>
+  <li><a href="https://metrorichmondart.org/past-exhibitions/">Summer in the City</a> | Metropolitan Richmond Artists Association | Richmond, Virginia, United States | June - August 2023</li>
+  <li><a href="https://metrorichmondart.org/show-opportunity-truist-bank/">Show At Truist Bank Gallery</a> | Metropolitan Richmond Artists Association | Richmond, Virginia, United States | May 2023</li>
+  <li><a href="https://artworksrva.com/blog/events/all-media-show-6/">All Media Show</a> | Art Works | Richmond, Virginia, United States | April - May 2023</li>
+  <li><a href="https://www.crossroadsartcenter.com/collections/celebrating-black-history-month">Celebrating Black History Month Through Art</a> | Crossroads Art Center | Richmond, Virginia, United States | January - March 2023</li>
+  <li><a href="https://metrorichmondart.org/upcoming-event-november-12-2022-member-share-drop-off-for-annual-show/">MRAA Annual Members Show</a> | Richmond, Virginia, United States | November 2022</li>
+  <li><a href="https://metrorichmondart.org/klma-show-submit-now/">KLMA Show</a> | Innsbrook, Virginia, United States | October 2022</li>
+  <li><a href="https://demofestival.com/past-festivals/demofestival2022">Design in Motion Festival</a> | The Netherlands | October 2022</li>
+  <li><a href="https://www.artworkarchive.com/profile/d-art-center/exhibition/portrayed-ii-d-art-center-s-second-national-portraiture-exhibition/pieces?page=2">Portrayed II: d'Art Center's Second National Portraiture Exhibition</a> | d'Art Center | Norfolk, Virginia, United States | July 2022</li>
+  <li><a href="https://libertytownarts.com/in-the-gallery/">The Urban Landscape</a> | LibertyTown Arts Workshop | Fredericksburg, Virginia, United States | July 2022</li>
+  <li><a href="https://metrorichmondart.org/kind-of-blue-opens-july-15-at-cultural-arts-center-at-glen-allen/">Kind of Blue</a> | Metropolitan Richmond Artists Association | Glen Allen, Virginia, United States | June - August 2022</li>
+  <li><a href="https://metrorichmondart.org/where-we-live-opens-june-2022-at-richmond-public-library/">Where We Live, Richmond In Perspective</a> | Metropolitan Richmond Artists Association | Richmond, Virginia, United States | June 2022</li>
+  <li><a href="https://www.crossroadsartcenter.com/">May 2022 All Media Show</a> | Honorable Mention | Crossroads Art Center | Richmond, Virginia, United States | May 2022</li>
+  <li><a href="https://www.bayschool-arts.com/pages/artspeaks">Art Speaks Juried Exhibition 2022</a> | Bay School Community Arts Center | Mathews, Virginia, United States | April 2022</li>
+  <li><a href="http://artspacegallery.org/2022/exhibits/all_media_march_april/">March/April Juried All Media Show</a> | Artspace | Richmond, Virginia, United States | March 2022</li>
+	<li><a href="https://www.crossroadsartcenter.com/collections/black-history-month-call-for-artists-and-online-exhibition">Black History Month</a> | Crossroads Art Center | Richmond, Virginia, United States | February 2022</li>
+	<li><a href="https://www.thewellartgallery.com/">Black History Now II</a> | The Well Art Gallery | Richmond, Virginia, United States | February 2022</li>
+	<li><a href="https://www.loosenart.com/blogs/magazine/environmental-alterations">Environmental Alterations</a> | Loosen Art | Rome, Italy | September 2021</li>
 	</ul>
 
   <h1>Membership</h1>
