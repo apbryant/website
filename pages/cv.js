@@ -83,17 +83,18 @@ export default function CV() {
 
   <h1>Membership</h1>
   <ul>
-    <li><a href="https://www.rvayimby.org/">RVA YIMBY</a>, Lead</li>
-    <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a> Webmaster</li>
+    <li><a href="https://www.rvayimby.org/">RVA YIMBY</a> | Lead | March 2023 - present</li>
+    <li><a href="https://metrorichmondart.org/">Metropolitan Richmond Artists Association</a> Webmaster | September 2022 - May 2024</li>
   </ul>
 
   <h1>Conferences/Talks</h1>
   <ul>
-    <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2023/">Full STEAM Ahead 2023</a>, CodeVA, June 2023</li>
-    <li>Gifted Students Workshop (virtual), Tuscaloosa County School System, June 2023</li>
-  <li><a href="https://metrorichmondart.org/upcoming-event-february-11-2023-andrew-bryant-generative-art/">What is Generative Art?</a>, Metropolitan Richmond Artists Association, February 2023</li>
-  <li><a href="https://www.codevirginia.org/event/computer-science-education-week-2022/">CS Ed Week Launch 2022</a>, CodeVA, December 2022</li>
-    <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2022/">Full STEAM Ahead 2022</a>, CodeVA, July 2022</li>
+    <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2023/">Full STEAM Ahead 2023</a> | CodeVA | Richmond, Virginia, United States | June 2023</li>
+    <li>Gifted Students Workshop | Tuscaloosa County School System | Virtual | June 2023</li>
+    <li>Career and College Week | Henry L. Marsh Elementary School | Richmond, Virginia, United States | April 2024</li>
+  <li><a href="https://metrorichmondart.org/upcoming-event-february-11-2023-andrew-bryant-generative-art/">What is Generative Art?</a> | Metropolitan Richmond Artists Association | Richmond, Virginia, United States | February 2023</li>
+  <li><a href="https://www.codevirginia.org/event/computer-science-education-week-2022/">CS Ed Week Launch 2022</a> | CodeVA | Richmond, Virginia, United States | December 2022</li>
+    <li><a href="https://www.codevirginia.org/event/full-steam-ahead-2022/">Full STEAM Ahead 2022</a> | CodeVA | Richmond, Virginia, United States | July 2022</li>
   </ul>
 	<h1>Projects</h1>
       <ul>
