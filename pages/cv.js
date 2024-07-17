@@ -46,8 +46,8 @@ export default function CV() {
 
   <h1>Solo Exhibitions</h1>
   <ul>
-  <li><a href="https://www.instagram.com/p/CoLIFPFObrH/?img_index=1">Past & Future</a>, Richmond Main Library, February 2023</li>
-  <li><a href="https://www.instagram.com/p/CRZJ2UGr6s7/">Live plotting</a>, Área, July 2021</li>
+  <li><a href="https://www.instagram.com/p/CoLIFPFObrH/?img_index=1">Past & Future</a> | Richmond Main Library | Richmond, Virginia, United States | February 2023</li>
+  <li><a href="https://www.instagram.com/p/CRZJ2UGr6s7/">Live plotting</a> | Área | Santiago, Región Metropolitana, Chile | July 2021</li>
   </ul>
 
   <h1>Group Exhibitions</h1>
