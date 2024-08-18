@@ -8,7 +8,7 @@ export default function CV() {
     <MyHeader />
       <main>
         <h1>Professional Experience</h1>
-      <h2>EBSCO Information Services, Software Engineer II - C#, November 2021 - present</h2>
+      <h2>EBSCO Information Services, Software Engineer II, November 2021 - present</h2>
 
       <p>I work on the team responsible for the LibraryAware product.</p>
       <ul>
@@ -52,6 +52,7 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
+  <li>804 Day | Hardywood West Creek | Richmond, Virginia, United States | August 2024</li>
   <li>syn·the·sis: digital craft | Floyd Center for the Arts | Floyd, Virginia, United States | June - August 2024</li>
   <li>Arts on the Lawn | Hermitage Richmond | Richmond, Virginia, United States | May 2024</li>
   <li>Art Speaks | The Bay School Community Arts Center | Mathews, Virginia, United States | April - May 2024</li>
