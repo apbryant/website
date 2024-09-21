@@ -52,6 +52,8 @@ export default function CV() {
 
   <h1>Group Exhibitions</h1>
 	<ul>
+    <li>The Structure of Imagination | Metropolitan Richmond Artists Association | Hanbury Architects | Richmond, Virginia, United States | September 2024</li>
+    <li>Art Walk | The Art Seen | Richmond, Virginia, United States | September 2024</li>
   <li>804 Day | Hardywood West Creek | Richmond, Virginia, United States | August 2024</li>
   <li>syn·the·sis: digital craft | Floyd Center for the Arts | Floyd, Virginia, United States | June - August 2024</li>
   <li>Arts on the Lawn | Hermitage Richmond | Richmond, Virginia, United States | May 2024</li>
