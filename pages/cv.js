@@ -129,7 +129,7 @@ export default function CV() {
 
       </li>
         <li>
-          AWS, Certified Cloud Practicioner, 2023
+          AWS, Certified Cloud Practitioner, 2023
         </li>
         <li>
          Udacity, Data Analyst Nanodegree, 2017
