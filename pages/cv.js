@@ -54,7 +54,7 @@ export default function CV() {
   <h1>Group Exhibitions</h1>
 	<ul>
     <li>Carytown Holiday Market | City Stadium | Richmond, Virginia, United States | December 2024</li>
-    <li>Annual Members Show | Metropolitan Richmond Artists Association | Crossroads Art Center | Richmond, Virginia, United States | November 2024 - January 2025</li>
+    <li>Annual Members Show | Metropolitan Richmond Artists Association | Crossroads Art Center | Richmond, Virginia, United States | November - December 2024</li>
     <li>The Structure of Imagination | Metropolitan Richmond Artists Association | Hanbury Architects | Richmond, Virginia, United States | September 2024</li>
     <li>Art Walk | The Art Seen | Richmond, Virginia, United States | September 2024</li>
   <li>804 Day | Hardywood West Creek | Richmond, Virginia, United States | August 2024</li>
