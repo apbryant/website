@@ -46,12 +46,15 @@ export default function CV() {
 
   <h1>Solo Exhibitions</h1>
   <ul>
+    <li><a href="https://www.instagram.com/p/DDiYMJBv2iX/?next=https%3A%2F%2Fwww.instagram.com%2Fandrew_paul_bryant%2F&img_index=1">EBSCO Information Services</a> | Ipswich, Massachusetts, United States | December - March 2025</li>
   <li><a href="https://www.instagram.com/p/CoLIFPFObrH/?img_index=1">Past & Future</a> | Richmond Main Library | Richmond, Virginia, United States | February 2023</li>
   <li><a href="https://www.instagram.com/p/CRZJ2UGr6s7/">Live plotting</a> | Área | Santiago, Región Metropolitana, Chile | July 2021</li>
   </ul>
 
   <h1>Group Exhibitions</h1>
 	<ul>
+    <li>Carytown Holiday Market | City Stadium | Richmond, Virginia, United States | December 2024</li>
+    <li>Annual Members Show | Metropolitan Richmond Artists Association | Crossroads Art Center | Richmond, Virginia, United States | November 2024 - January 2025</li>
     <li>The Structure of Imagination | Metropolitan Richmond Artists Association | Hanbury Architects | Richmond, Virginia, United States | September 2024</li>
     <li>Art Walk | The Art Seen | Richmond, Virginia, United States | September 2024</li>
   <li>804 Day | Hardywood West Creek | Richmond, Virginia, United States | August 2024</li>
