@@ -13,16 +13,6 @@ const MyHeader  = () => {
     </Link>
     {" "}
 
-    <Link href="/posts/posts-index">
-      Posts
-    </Link>
-    {" "}
-
-    <Link href="/artwork">
-      Artwork
-    </Link>
-    {" "}
-
     <Link href="/cv">
       CV
     </Link>
