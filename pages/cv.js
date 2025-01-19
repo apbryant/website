@@ -291,6 +291,22 @@ export default function CV() {
           </li>
         </ul>
 
+        <h1>
+          Awards
+        </h1>
+        <ul>
+          <li>
+            Honorable Mention: Annual Members Show | Metropolitan Richmond Artists Association |
+            Crossroads Art Center | Richmond, Virginia, United States | November
+            - December 2024
+          </li>
+          <li>
+            Honorable Mention: May 2022 All Media Show |
+            Crossroads Art Center | Richmond, Virginia,
+            United States | May 2022
+          </li>
+        </ul>
+
         <h1>Membership</h1>
         <ul>
           <li>
