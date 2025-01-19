@@ -302,9 +302,11 @@ export default function CV() {
           </li>
           <li>
             <a href="https://metrorichmondart.org/">
-              Metropolitan Richmond Artists Association
+              Metropolitan Richmond Artists Association, 2022 - present
             </a>{" "}
-            Webmaster | September 2022 - May 2024
+              <ul>
+                <li>Webmaster | September 2022 - May 2024</li>
+              </ul>
           </li>
         </ul>
 
