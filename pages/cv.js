@@ -280,10 +280,7 @@ export default function CV() {
             February 2022
           </li>
           <li>
-            <a href="https://www.thewellartgallery.com/">
-              Black History Now II
-            </a>{" "}
-            | The Well Art Gallery | Richmond, Virginia, United States |
+            Black History Now II | The Well Art Gallery | Richmond, Virginia, United States |
             February 2022
           </li>
           <li>
