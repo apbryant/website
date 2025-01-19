@@ -255,8 +255,7 @@ export default function CV() {
           <li>
             <a href="https://www.crossroadsartcenter.com/">
               May 2022 All Media Show
-            </a>{" "}
-            | Honorable Mention | Crossroads Art Center | Richmond, Virginia,
+            </a>{" "}| Crossroads Art Center | Richmond, Virginia,
             United States | May 2022
           </li>
           <li>
