@@ -369,7 +369,7 @@ export default function CV() {
           </li>
           <li>
             <a href="https://www.artsyshark.com/2021/05/26/what-is-creative-coding/">
-              Artsy Shark - What Is creative coding?
+              Artsy Shark - What Is Creative Coding?
             </a>
           </li>
           <li>
