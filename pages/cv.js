@@ -108,6 +108,9 @@ export default function CV() {
         <h1>Group Exhibitions</h1>
         <ul>
           <li>
+            Diasporic Crossing | Southside Contemporary Art Gallery | Richmond, Virginia, United States | February - March 2025
+          </li>
+          <li>
             Simply Photography | Art Works | Richmond, Virginia, United States |
             January - February 2025
           </li>
