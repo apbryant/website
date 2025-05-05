@@ -108,6 +108,10 @@ export default function CV() {
         <h1>Group Exhibitions</h1>
         <ul>
           <li>
+            Inner Space | Metropolitan Richmond Artists Association | Hanbury Architects |
+            Richmond, Virginia, United States | April 2025
+          </li>
+          <li>
             Diasporic Crossing | Southside Contemporary Art Gallery | Richmond, Virginia, United States | February - March 2025
           </li>
           <li>
