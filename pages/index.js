@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="title">
           Welcome
         </h1>
-        <p>I'm a software engineer and creative coder based in Richmond, Virginia.</p>
+        <p>I'm a software engineer and creative coder based in Arlington, Virginia.</p>
         <h1>Fun facts</h1>
         <ul>
           <li>My hobbies are Brazilian jiu-jitsu, biking, and reading</li>
