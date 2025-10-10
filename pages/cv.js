@@ -107,6 +107,7 @@ export default function CV() {
 
         <h1>Group Exhibitions</h1>
         <ul>
+          <li>Brandery Richmond | Richmond, Virginia, United States | October 2025</li>
           <li>Silent Auction | Little Hands Virginia | Richmond, Virginia, United States | May 2025</li>
           <li>
             Inner Space | Metropolitan Richmond Artists Association | Hanbury Architects |
@@ -317,13 +318,15 @@ export default function CV() {
         <h1>Membership</h1>
         <ul>
           <li>
+            <a href="https://yimbysofnova.org/">YIMBYs of NoVA</a> | Lead | August 2025 - present
+          </li>
+          <li>
             <a href="https://www.rvayimby.org/">RVA YIMBY</a> | Lead | March
-            2023 - present
+            2023 - July 2025
           </li>
           <li>
             <a href="https://metrorichmondart.org/">
-              Metropolitan Richmond Artists Association, 2022 - present
-            </a>{" "}
+              Metropolitan Richmond Artists Association</a>{" "} | 2022 - 2025
               <ul>
                 <li>Webmaster | September 2022 - May 2024</li>
               </ul>
