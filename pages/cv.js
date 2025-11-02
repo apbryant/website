@@ -107,7 +107,7 @@ export default function CV() {
 
         <h1>Group Exhibitions</h1>
         <ul>
-          <li>Brandery Richmond | Richmond, Virginia, United States | October 2025</li>
+          <li>Brandery Richmond | Richmond, Virginia, United States | October 2025 - April 2026</li>
           <li>Silent Auction | Little Hands Virginia | Richmond, Virginia, United States | May 2025</li>
           <li>
             Inner Space | Metropolitan Richmond Artists Association | Hanbury Architects |
