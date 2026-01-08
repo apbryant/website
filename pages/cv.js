@@ -107,6 +107,7 @@ export default function CV() {
 
         <h1>Group Exhibitions</h1>
         <ul>
+          <li>I Love Main Street Station | Main Street Station | Richmond, Virginia, United States | January 2026</li>
           <li>VA Gala Auction | Comfort Zone Camp | Richmond, Virginia, United States | December 2025</li>
           <li>Brandery Richmond | Richmond, Virginia, United States | October 2025 - April 2026</li>
           <li>Silent Auction | Little Hands Virginia | Richmond, Virginia, United States | May 2025</li>
@@ -121,6 +122,7 @@ export default function CV() {
             Simply Photography | Art Works | Richmond, Virginia, United States |
             January - February 2025
           </li>
+          <li>I Love Main Street Station | Main Street Station | Richmond, Virginia, United States | January 2025</li>
           <li>
             Carytown Holiday Market | City Stadium | Richmond, Virginia, United
             States | December 2024
