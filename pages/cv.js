@@ -13,8 +13,11 @@ export default function CV() {
           present
         </h2>
 
-        <p>I work on the team responsible for the LibraryAware product.</p>
+        <p>I work on the team responsible for the LibraryAware product and processing data from book data providers into NoveList's products.</p>
         <ul>
+          <li>
+            Extract, transform, and load data from book data providers
+          </li>
           <li>
             Migrate portions of the application's code and data into Amazon Web
             Services
@@ -107,10 +110,11 @@ export default function CV() {
 
         <h1>Group Exhibitions</h1>
         <ul>
+          <li>Virginia Tablescapes | Little Hands Virginia | Richmond, Virginia, United States | March 2026</li>
           <li>I Love Main Street Station | Main Street Station | Richmond, Virginia, United States | January 2026</li>
           <li>VA Gala Auction | Comfort Zone Camp | Richmond, Virginia, United States | December 2025</li>
           <li>Brandery Richmond | Richmond, Virginia, United States | October 2025 - April 2026</li>
-          <li>Silent Auction | Little Hands Virginia | Richmond, Virginia, United States | May 2025</li>
+          <li>Virginia Tablescapes | Little Hands Virginia | Richmond, Virginia, United States | May 2025</li>
           <li>
             Inner Space | Metropolitan Richmond Artists Association | Hanbury Architects |
             Richmond, Virginia, United States | April 2025
