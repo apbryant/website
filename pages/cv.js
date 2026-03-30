@@ -127,6 +127,7 @@ export default function CV() {
             January - February 2025
           </li>
           <li>I Love Main Street Station | Main Street Station | Richmond, Virginia, United States | January 2025</li>
+          <li><a href="https://128kb.eu/gifs/optimize/">128KB</a> | Online | 2024</li>
           <li>
             Carytown Holiday Market | City Stadium | Richmond, Virginia, United
             States | December 2024
