@@ -12,19 +12,13 @@ export default function CV() {
           EBSCO Information Services, Software Engineer II, November 2021 -
           present
         </h2>
-
-        <p>I work on the team responsible for the LibraryAware product and processing data from book data providers into NoveList's products.</p>
+        <p>I work on the team responsible for the LibraryAware and NoveList Select products, as well as processing data from book data providers into NoveList's products.</p>
         <ul>
           <li>
-            Extract, transform, and load data from book data providers
+            Extract, transform, and load data from book data providers into NoveList products
           </li>
           <li>
-            Migrate portions of the application's code and data into Amazon Web
-            Services
-          </li>
-          <li>
-            Migrate product email delivery from on-premises software to Amazon
-            Web Services Simple Email Service
+            Migrate application code and data into Amazon Web Services
           </li>
           <li>
             Implement bug fixes and product improvements using C# and React
@@ -341,8 +335,11 @@ export default function CV() {
           </li>
         </ul>
 
-        <h1>Conferences/Talks</h1>
+        <h1>Conferences/Talks/Workshops</h1>
         <ul>
+          <li>
+            Processing Community Day DC | Washington, DC, USA | October 2026
+          </li>
           <li>
             <a href="https://www.codevirginia.org/event/full-steam-ahead-2023/">
               Full STEAM Ahead 2023
