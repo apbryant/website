@@ -338,7 +338,7 @@ export default function CV() {
         <h1>Conferences/Talks/Workshops</h1>
         <ul>
           <li>
-            Processing Community Day DC | Washington, DC, USA | October 2026
+            Processing Community Day DC | Washington, DC, United States | October 2026
           </li>
           <li>
             <a href="https://www.codevirginia.org/event/full-steam-ahead-2023/">
