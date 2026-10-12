@@ -10,8 +10,10 @@ body {
     Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
-
+  background-color: black;
+  color: #f2f0ef;
 }
+
 article {
   margin-left: 20%;
   margin-right: 20%;
