@@ -24,7 +24,7 @@ export default function CV() {
             Implement bug fixes and product improvements using C# and React
           </li>
           <li>
-            Participate in planning and refinment of features and user stories
+            Participate in planning and refinement of features and user stories
           </li>
         </ul>
         <h2>Lazarillo, Full Stack Developer, January 2021 - October 2021</h2>
