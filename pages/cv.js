@@ -21,7 +21,7 @@ export default function CV() {
             Migrate application code and data into Amazon Web Services
           </li>
           <li>
-            Implement bug fixes and product improvements using C# and React
+            Implement bug fixes and product improvements using ASP.NET and React
           </li>
           <li>
             Participate in planning and refinement of features and user stories
